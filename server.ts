@@ -332,20 +332,7 @@ ${urls.join('')}
   }
 });
 
-// SPA catch-all: any non-API GET that didn't match a static file returns the
-// app shell so clean URLs (e.g. /hospitals/s) work on direct load / refresh.
-// (Express 5 dropped the bare '*' string route, so use a path-less middleware.)
-app.use((req: Request, res: Response, next: NextFunction) => {
-  if (req.method !== 'GET' || req.path.startsWith('/api/')) {
-    next();
-    return;
-  }
-  if (process.env.NODE_ENV === 'production') {
-    res.sendFile(path.join(projectRoot, 'dist', 'index.html'));
-  } else {
-    res.sendFile(path.join(projectRoot, 'index.html'));
-  }
-});
+// Removed legacy SPA catch-all route because frontend is now hosted separately
 
 // 404 fallback (unmatched API routes + non-GET)
 app.use((req: Request, res: Response) => {
