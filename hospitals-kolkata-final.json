@@ -1,0 +1,4131 @@
+[
+  {
+    "slug": "apollo-gleneagles-hospital-kolkata",
+    "name": "Apollo Gleneagles Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "2003",
+    "totalBeds": 610,
+    "icuBeds": 180,
+    "totalStaff": 0,
+    "overview": "Apollo Gleneagles Hospital is a prominent multispeciality hospital in Kolkata, known for structured tertiary care across Cardiology, Cardiothoracic Surgery, Emergency Medicine, and Oncology. Hospital capacity markers such as 610 beds, 180+ critical care beds, JCI accredited, and 24/7 emergency support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through 24/7 emergency care, Critical care and ICU, Ambulance coordination, and 24-hour pharmacy and practical amenities like Blood bank, Cath lab, and Pharmacy. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "infokolkata@apollohospitals.com",
+    "phone": "033 4420 2122",
+    "alternatePhone": "1860 500 1066",
+    "website": "https://www.apollohospitals.com/kolkata",
+    "address": "58, Canal Circular Rd, Kadapara, Phoolbagan, Kankurgachi, Kolkata, West Bengal 700054",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700054",
+    "locality": "Kankurgachi",
+    "landmark": "Kadapara",
+    "emergencyContact": "1066",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/TheApolloHospitals",
+    "twitter": "https://twitter.com/HospitalsApollo",
+    "instagram": "https://instagram.com/theapollohospitals",
+    "linkedin": "https://in.linkedin.com/company/apollo-hospitals",
+    "youtube": "https://www.youtube.com/user/apollohospitalsindia",
+    "specialties": [
+      "Cardiology",
+      "Cardiothoracic Surgery",
+      "Emergency Medicine",
+      "Oncology",
+      "Neurology",
+      "Gastroenterology",
+      "Orthopaedics",
+      "Urology"
+    ],
+    "services": [
+      "24/7 emergency care",
+      "Critical care and ICU",
+      "Ambulance coordination",
+      "24-hour pharmacy",
+      "24-hour laboratory and radiology",
+      "Trauma support",
+      "Health checkups"
+    ],
+    "amenities": [
+      "Blood bank",
+      "Cath lab",
+      "Pharmacy",
+      "MRI and CT imaging",
+      "Emergency waiting area",
+      "Insurance assistance"
+    ],
+    "metrics": [
+      "610 beds",
+      "180+ critical care beds",
+      "JCI accredited",
+      "24/7 emergency"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQUmKWHCtvf4adHL0CDZ1yFNx29AhhW2VKS-tTh1VRyWF0DmIXuTLquerAGZf_mpek1-ucNOjuTuXcu1c-jX2MiUEpWFAD7Gp_e26WwDOypWauCnkT2lqEZeHfCEF9itpaom0=w1200-h900-p-k-no",
+    "logo": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEQUmKWHCtvf4adHL0CDZ1yFNx29AhhW2VKS-tTh1VRyWF0DmIXuTLquerAGZf_mpek1-ucNOjuTuXcu1c-jX2MiUEpWFAD7Gp_e26WwDOypWauCnkT2lqEZeHfCEF9itpaom0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "JCI",
+      "NABL",
+      "ISO 22000:2005 HACCP"
+    ],
+    "awards": [],
+    "establishedYear": "2003",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5733301,
+      "lng": 88.4010152,
+      "label": "Apollo Gleneagles Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 26,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "b-p-poddar-hospital-and-medical-research-limited-kolkata",
+    "name": "B.P. Poddar Hospital & Medical Research Limited",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "1997",
+    "totalBeds": 205,
+    "icuBeds": 60,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, B.P. Poddar Hospital & Medical Research Limited brings together specialists for Cardiology, Cardiothoracic Surgery, Gastroenterology, and General and Laparoscopic Surgery. Hospital capacity markers such as 205 beds, 60 critical care beds, NABH 5th Edition, and 24/7 emergency support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through 24x7 emergency services, Round-the-clock ambulance, Diagnostics, and Pharmacy and practical amenities like Critical care unit, Ambulance, and Diagnostics. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "feedback@bppoddarhospital.com",
+    "phone": "8585035846",
+    "alternatePhone": "033 4022 6000",
+    "website": "https://www.bppoddarhospital.com/",
+    "address": "71/1, Humayun Kabir Sarani, Block G, New Alipore, Kolkata, West Bengal 700053",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700053",
+    "locality": "New Alipore",
+    "landmark": "Block G",
+    "emergencyContact": "8585035846",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/bppoddarhospital/",
+    "twitter": "https://twitter.com/BPP_Hospital",
+    "instagram": "https://www.instagram.com/b.p.poddarhospital/?hl=en",
+    "linkedin": "https://www.linkedin.com/company/bpph/",
+    "youtube": "https://www.youtube.com/@bppoddarhospital2005/",
+    "specialties": [
+      "Cardiology",
+      "Cardiothoracic Surgery",
+      "Gastroenterology",
+      "General and Laparoscopic Surgery",
+      "Orthopaedics",
+      "Neurology and Neurosurgery",
+      "Oncology",
+      "Urology"
+    ],
+    "services": [
+      "24x7 emergency services",
+      "Round-the-clock ambulance",
+      "Diagnostics",
+      "Pharmacy",
+      "OPD 7 days a week",
+      "Health checkups"
+    ],
+    "amenities": [
+      "Critical care unit",
+      "Ambulance",
+      "Diagnostics",
+      "Pharmacy",
+      "Joint replacement centre",
+      "Research department"
+    ],
+    "metrics": [
+      "205 beds",
+      "60 critical care beds",
+      "NABH 5th Edition",
+      "24/7 emergency"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5117888%2C88.3323761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.bppoddarhospital.com/wp-content/themes/bppoddarhospital/asset/images/logo.jpg",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5117888%2C88.3323761&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5117888%2C88.3323761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5117888%2C88.3323761&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [
+      "NABH 5th Edition"
+    ],
+    "awards": [],
+    "establishedYear": "1997",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5117888,
+      "lng": 88.3323761,
+      "label": "B.P. Poddar Hospital & Medical Research Limited",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 60,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bm-birla-heart-hospital-ck-birla-hospitals-kolkata",
+    "name": "BM Birla Heart Hospital | CK Birla Hospitals",
+    "type": "Heart Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose BM Birla Heart Hospital | CK Birla Hospitals for its strength in Cardiac Surgery and Cardiac Care. With public-facing highlights like Google rating 4.8, 48+ public reviews, and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "080 6213 6586",
+    "alternatePhone": "",
+    "website": "https://ckbirlahospitals.com/bmb",
+    "address": "1, 1, National Library Ave, Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "Alipore",
+    "landmark": "National Library Ave",
+    "emergencyContact": "080 6213 6586",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/BMBirlaKolkata",
+    "twitter": "https://twitter.com/BMBirlaKolkata",
+    "instagram": "https://www.instagram.com/bmbirlahearthospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCbXo0fHJNc-3gAVeJWuJvbg?view_as=subscriber",
+    "specialties": [
+      "Cardiac Surgery",
+      "Cardiac Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "48+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgJv5G8NZGf-diL6dEjxGkRh44ddfUcpUw8-WEYZiMsy7ZWkYJRQ0P_G1qO7OsLuOG-F4_ZBdloVtp6GI_D_2xwTuQfSvui5x9YUYZq628m7SjJpOBGR69RgTR7Gd9WIdLSrBhuQ=w1200-h900-p-k-no",
+    "logo": "https://ckbirlahospitals.com/_next/image?url=%2Fimages%2Flogo%2Fbmb.png&w=640&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGgJv5G8NZGf-diL6dEjxGkRh44ddfUcpUw8-WEYZiMsy7ZWkYJRQ0P_G1qO7OsLuOG-F4_ZBdloVtp6GI_D_2xwTuQfSvui5x9YUYZq628m7SjJpOBGR69RgTR7Gd9WIdLSrBhuQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5328893,
+      "lng": 88.3282827,
+      "label": "BM Birla Heart Hospital | CK Birla Hospitals",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 48,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "calcutta-institute-of-maxillofacial-surgery-and-research-kolkata",
+    "name": "Calcutta Institute Of Maxillofacial Surgery & Research",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Calcutta Institute Of Maxillofacial Surgery & Research delivers integrated care across Cosmetic Surgery and Maxillofacial Surgery. Hospital capacity markers such as Google rating 4.5 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "098300 80174",
+    "alternatePhone": "",
+    "website": "http://www.kolkatamaxillofacial.com/",
+    "address": "200, Rajdanga Nabapally Ln, Dindli Basti, Sector A, East Kolkata Twp, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "East Kolkata Twp",
+    "landmark": "Dindli Basti",
+    "emergencyContact": "098300 80174",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/100063859127942/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/kolkatamaxillofacial/",
+    "linkedin": "https://in.linkedin.com/company/calcutta-institute-of-maxillofacial-surgery-research",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5151785%2C88.3904724&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5151785%2C88.3904724&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5151785%2C88.3904724&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5151785%2C88.3904724&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5151785,
+      "lng": 88.3904724,
+      "label": "Calcutta Institute Of Maxillofacial Surgery & Research",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "cmri-hospital-kolkata",
+    "name": "CMRI Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "1970",
+    "totalBeds": 440,
+    "icuBeds": 75,
+    "totalStaff": 0,
+    "overview": "CMRI Hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Orthopaedics and Joint Replacement, Pulmonology, General Surgery, and ENT. Its infrastructure includes 440 beds, 75+ critical care beds, 9 modular OTs, and NABH and NABL accredited, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include 24/7 emergency support, 24/7 appointments, Robotic surgery, and Transplant services, while day-to-day patient convenience is improved through 256 slice CT, MRI, and 9 modular OTs. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "mailus@ckbirlahospitals.com",
+    "phone": "08062136595",
+    "alternatePhone": "08062136598",
+    "website": "https://ckbirlahospitals.com/cmri/",
+    "address": "7, 2, Diamond Harbour Rd, New Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "New Alipore",
+    "landmark": "Diamond Harbour Rd",
+    "emergencyContact": "08062136598",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/CMRIHospitalKolkata",
+    "twitter": "https://twitter.com/CMRIKolkata",
+    "instagram": "https://www.instagram.com/cmrikolkata/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCbXo0fHJNc-3gAVeJWuJvbg",
+    "specialties": [
+      "Orthopaedics and Joint Replacement",
+      "Pulmonology",
+      "General Surgery",
+      "ENT",
+      "Plastic and Cosmetic Surgery",
+      "Neurosciences",
+      "Robotic Surgery",
+      "Cardiology"
+    ],
+    "services": [
+      "24/7 emergency support",
+      "24/7 appointments",
+      "Robotic surgery",
+      "Transplant services",
+      "Critical care",
+      "Health check packages"
+    ],
+    "amenities": [
+      "256 slice CT",
+      "MRI",
+      "9 modular OTs",
+      "Respiratory ICU",
+      "International patient desk",
+      "Pathology support"
+    ],
+    "metrics": [
+      "440 beds",
+      "75+ critical care beds",
+      "9 modular OTs",
+      "NABH and NABL accredited"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwgjGUjxhbyQ8gmdmvRtNrMkV-KfG72GC3LQozssY03c1kHQEjw8iUimR5YKhUvdXjrFnksz4hKnaQ7t3jB10LV0KRNs_D11uA_anmr2oHLuuzcywVAHbsHADQg-RNS_gQNdOH=w1200-h900-p-k-no",
+    "logo": "https://ckbirlahospitals.com/_next/image?url=%2Fimages%2Flogo%2Fcmri.png&w=640&q=75",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwgjGUjxhbyQ8gmdmvRtNrMkV-KfG72GC3LQozssY03c1kHQEjw8iUimR5YKhUvdXjrFnksz4hKnaQ7t3jB10LV0KRNs_D11uA_anmr2oHLuuzcywVAHbsHADQg-RNS_gQNdOH=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH",
+      "NABL",
+      "CAHO"
+    ],
+    "awards": [],
+    "establishedYear": "1970",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5321698,
+      "lng": 88.3278024,
+      "label": "CMRI Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 11,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "command-hospital-eastern-command-kolkata",
+    "name": "Command Hospital(Eastern Command)",
+    "type": "Military Hospital",
+    "ownershipType": "Military",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted military hospital in Kolkata, Command Hospital(Eastern Command) delivers integrated care across Kidney Transplant Surgery. The facility stands out for Google rating 4.2, 89+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 2479 1567",
+    "alternatePhone": "",
+    "website": "http://echs.gov.in/",
+    "address": "17/1E, Alipore Rd, Alipore Police Line, Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "Alipore",
+    "landmark": "Alipore Police Line",
+    "emergencyContact": "033 2479 1567",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "89+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZYD_orekedXSFjOO86H_HWnFoFrl6tZtrfqOqJR_hxEHGgF2o1XZAyE3LYpYDNUDslKh0gB-K1doirRcbA_32H2h5qGyygiDBMPDg2M2D8Eozjr_iwrbUZhSaHf2mmYrBOdhXTw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEZYD_orekedXSFjOO86H_HWnFoFrl6tZtrfqOqJR_hxEHGgF2o1XZAyE3LYpYDNUDslKh0gB-K1doirRcbA_32H2h5qGyygiDBMPDg2M2D8Eozjr_iwrbUZhSaHf2mmYrBOdhXTw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5304003,
+      "lng": 88.3316927,
+      "label": "Command Hospital(Eastern Command)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 89,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "desun-hospital-kolkata",
+    "name": "Desun Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "2006",
+    "totalBeds": 750,
+    "icuBeds": 94,
+    "totalStaff": 0,
+    "overview": "Desun Hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cardiology, Cardiac Surgery, Critical Care, and Gastroenterology. The facility stands out for 750 hospital beds, 94-bed ICU, JCI accredited, and 24/7 emergency, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as 24 hour ambulance service, 24 hour specialist doctors, 24 hour diagnostics, and 24 hour pharmacy, backed by on-site support features including Helipad, Ventilator at every ICU bed, and Insurance support. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "desun@desunhospital.com",
+    "phone": "90 5171 5171",
+    "alternatePhone": "",
+    "website": "https://desunhospital.com/",
+    "address": "Desun More, 720, Eastern Metropolitan Bypass, Golpark, Sector I, Kasba, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "Kasba",
+    "landmark": "Eastern Metropolitan Bypass",
+    "emergencyContact": "90 5171 5171",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/DesunHospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/desunhospital/",
+    "linkedin": "https://www.linkedin.com/company/desun-hospitals/",
+    "youtube": "https://www.youtube.com/user/desunonline",
+    "specialties": [
+      "Cardiology",
+      "Cardiac Surgery",
+      "Critical Care",
+      "Gastroenterology",
+      "Orthopaedics",
+      "Oncology",
+      "Neurology",
+      "Nephrology"
+    ],
+    "services": [
+      "24 hour ambulance service",
+      "24 hour specialist doctors",
+      "24 hour diagnostics",
+      "24 hour pharmacy",
+      "Rooftop helipad transfer support",
+      "Burn unit",
+      "Bone marrow transplant support"
+    ],
+    "amenities": [
+      "Helipad",
+      "Ventilator at every ICU bed",
+      "Insurance support",
+      "Pharmacy",
+      "Diagnostics",
+      "Emergency admission desk"
+    ],
+    "metrics": [
+      "750 hospital beds",
+      "94-bed ICU",
+      "JCI accredited",
+      "24/7 emergency"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4oeh6LTX15OoWltKC-omRnuI6twrc9GKSohJp4i5wPE7g7-WUMRg1biyDKNrcXTcZFahlud9e1g9nAx9bmtTZ3YB56WaStY9CglQswWUOoMyv2w0EF0e_-cVVwiS07tXSaDI=w1200-h900-p-k-no",
+    "logo": "https://desunhospital.com/wp-content/themes/desun/assets/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4oeh6LTX15OoWltKC-omRnuI6twrc9GKSohJp4i5wPE7g7-WUMRg1biyDKNrcXTcZFahlud9e1g9nAx9bmtTZ3YB56WaStY9CglQswWUOoMyv2w0EF0e_-cVVwiS07tXSaDI=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "JCI",
+      "NABH",
+      "NABL"
+    ],
+    "awards": [],
+    "establishedYear": "2006",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5146288,
+      "lng": 88.4032479,
+      "label": "Desun Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "flemming-hospital-kolkata",
+    "name": "Flemming Hospital",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Flemming Hospital is a prominent general hospital in Kolkata, known for structured tertiary care across General Surgery. Operational strengths including Google rating 2.6 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "033 4068 6161",
+    "alternatePhone": "",
+    "website": "http://www.flemminghospital.com/",
+    "address": "11A, 1H, Topsia Rd, Mirania Gardens, East Topsia, Topsia, Kolkata, West Bengal 700046",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700046",
+    "locality": "Topsia",
+    "landmark": "Topsia Rd",
+    "emergencyContact": "033 4068 6161",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/flemmingkolkata/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "General Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 2.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMcJiiDEwaVkrclxuyMr-ED7sxm7pCua8XAxn8jx8JHLOIpkzkAXDyBOX_JCfz1ZQ3cBWYH968xq2Koe0iItim_49IAfgaoXWt8a8MFdoD2WQq7AZxbuLUVXw6uZvTNlzh70al=w1200-h900-p-k-no",
+    "logo": "http://www.flemminghospital.com/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFMcJiiDEwaVkrclxuyMr-ED7sxm7pCua8XAxn8jx8JHLOIpkzkAXDyBOX_JCfz1ZQ3cBWYH968xq2Koe0iItim_49IAfgaoXWt8a8MFdoD2WQq7AZxbuLUVXw6uZvTNlzh70al=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5409396,
+      "lng": 88.3895125,
+      "label": "Flemming Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 2.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-anandapur-kolkata",
+    "name": "Fortis Hospital Anandapur",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "2011",
+    "totalBeds": 320,
+    "icuBeds": 72,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Fortis Hospital Anandapur offers coordinated hospital care with major focus on Cardiology, Pulmonology, Orthopaedics, and Neurology. Hospital capacity markers such as 320+ operational beds, 72 ICU beds, 10 OTs, and NABH and NABL accredited support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through 24/7 emergency services, Advanced ICU support, Dialysis unit, and Blood bank and practical amenities like 10 operation theatres, Cardiac OTs, and Cath lab. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098730 31410",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-anandapur-kolkata",
+    "address": "730, Eastern Metropolitan Bypass, Anandapur, East Kolkata Twp, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "East Kolkata Twp",
+    "landmark": "Anandapur",
+    "emergencyContact": "098730 31410",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/fortishealth",
+    "twitter": "https://twitter.com/fortis_hospital",
+    "instagram": "https://www.instagram.com/fortis.healthcare",
+    "linkedin": "https://www.linkedin.com/company/fortis-healthcare/",
+    "youtube": "https://www.youtube.com/channel/UCn0ShMNqXI3kQP-Eoaf7olg",
+    "specialties": [
+      "Cardiology",
+      "Pulmonology",
+      "Orthopaedics",
+      "Neurology",
+      "Nephrology",
+      "Urology",
+      "Mother and Child Care",
+      "Critical Care"
+    ],
+    "services": [
+      "24/7 emergency services",
+      "Advanced ICU support",
+      "Dialysis unit",
+      "Blood bank",
+      "Physiotherapy and rehabilitation",
+      "Robotic surgery support",
+      "Ambulance services"
+    ],
+    "amenities": [
+      "10 operation theatres",
+      "Cardiac OTs",
+      "Cath lab",
+      "Dialysis services",
+      "Pharmacy",
+      "Ambulance support"
+    ],
+    "metrics": [
+      "320+ operational beds",
+      "72 ICU beds",
+      "10 OTs",
+      "NABH and NABL accredited"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRX7in1RU21M535lKPoWKsjF8bAEJpPPne8UszEKOdQbhFiYz3CD-dB4w1wDHbP4QvmXg5qIVXcR8b6yjb7azObKrXxDJcp3mlbDvukoh95qskl53OwQ8EBLjrbQggdKugluQ7=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGRX7in1RU21M535lKPoWKsjF8bAEJpPPne8UszEKOdQbhFiYz3CD-dB4w1wDHbP4QvmXg5qIVXcR8b6yjb7azObKrXxDJcp3mlbDvukoh95qskl53OwQ8EBLjrbQggdKugluQ7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH",
+      "NABL"
+    ],
+    "awards": [],
+    "establishedYear": "2011",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5204939,
+      "lng": 88.4009459,
+      "label": "Fortis Hospital Anandapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "fortis-hospital-and-kidney-institute-rash-behari-kolkata-best-hospital-in-kolkata-kolkata",
+    "name": "Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata delivers integrated care across Kidney Transplant Surgery and Kidney Care. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "098730 30996",
+    "alternatePhone": "",
+    "website": "https://www.fortishealthcare.com/location/fortis-hospital-kidney-institute-gariahat-kolkata?utm_source=google-gmb&utm_medium=gmb-seo-url&utm_campaign=FHL-gmb",
+    "address": "111A, Rash Behari Ave, Dover Terrace, Gariahat, Kolkata, West Bengal 700029",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700029",
+    "locality": "Gariahat",
+    "landmark": "Dover Terrace",
+    "emergencyContact": "098730 30996",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/fortishealth",
+    "twitter": "https://twitter.com/fortis_hospital",
+    "instagram": "https://www.instagram.com/fortis.healthcare",
+    "linkedin": "https://www.linkedin.com/company/fortis-healthcare/",
+    "youtube": "https://www.youtube.com/channel/UCn0ShMNqXI3kQP-Eoaf7olg",
+    "specialties": [
+      "Kidney Transplant Surgery",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXciqEOVVhEqIblma6N8JMuBVoogaEP0V9AJhuHd4WYEkPl1diEEznwVTf8bkD_NQok-vhedAbr_W6yPpQQCZVRNip6OflarvGni64hErKfPOQAlM6QlMZWKXffZGSZKk90IPp2Q=w1200-h900-p-k-no",
+    "logo": "https://www.fortishealthcare.com/themes/custom/fortis/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHXciqEOVVhEqIblma6N8JMuBVoogaEP0V9AJhuHd4WYEkPl1diEEznwVTf8bkD_NQok-vhedAbr_W6yPpQQCZVRNip6OflarvGni64hErKfPOQAlM6QlMZWKXffZGSZKk90IPp2Q=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5182209,
+      "lng": 88.3559414,
+      "label": "Fortis Hospital and Kidney Institute, Rash Behari, Kolkata - Best Hospital in Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "gd-hospital-and-diabetes-institute-kolkata",
+    "name": "GD Hospital & Diabetes Institute",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "GD Hospital & Diabetes Institute is a prominent general hospital in Kolkata, known for structured tertiary care across General Surgery and Diabetology. The facility stands out for Google rating 3.9, 13+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://www.gdhospitals.org/",
+    "address": "139 A, Lenin Sarani Rd, Bowbazar, Kolkata, West Bengal 700013",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700013",
+    "locality": "Bowbazar",
+    "landmark": "Bowbazar",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/GD.Hospital.info/",
+    "twitter": "https://twitter.com/GD_hospital",
+    "instagram": "https://www.instagram.com/gdhospital4/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCCV5EUjUr0q4x_go0PvyuPg",
+    "specialties": [
+      "General Surgery",
+      "Diabetology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "13+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5620956%2C88.3621637&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.gdhospitals.org/cimage35/113097gd_hospital_diabetes_institute_logo.jpg",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5620956%2C88.3621637&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5620956%2C88.3621637&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5620956%2C88.3621637&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5620956,
+      "lng": 88.3621637,
+      "label": "GD Hospital & Diabetes Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 13,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "genesis-hospital-kolkata",
+    "name": "Genesis Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "2004",
+    "totalBeds": 100,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Genesis Hospital offers coordinated hospital care with major focus on General Surgery, Laparoscopic Surgery, Gastroenterology, and ENT. Operational strengths including 100 beds, 4 operation theatres, Founded 2004, and 100000+ in-patients served make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Insurance and mediclaim support, General surgery, Laparoscopic care, and Inpatient treatment, supported by 4 operation theatres, ICU, ITU and NICU support, and AI-monitored beds. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "genesishospital2004@gmail.com",
+    "phone": "033 4022 4242",
+    "alternatePhone": "8584883902",
+    "website": "https://www.genesishospital.co/",
+    "address": "1470, Rajdanga Main Road, beside Gst Bhawan, Sector C, East Kolkata Twp, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "East Kolkata Twp",
+    "landmark": "beside Gst Bhawan, Sector C, East Kolkata Twp, Kolkata, West Bengal 700107",
+    "emergencyContact": "8584883902",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/GenesisHospitalKolkata",
+    "twitter": "https://www.twitter.com/wix",
+    "instagram": "https://www.instagram.com/genesis__hospital/",
+    "linkedin": "https://www.linkedin.com/company/wix-com",
+    "youtube": "https://www.youtube.com/channel/UCyo8PkDMu805a1w0SrLaGkQ",
+    "specialties": [
+      "General Surgery",
+      "Laparoscopic Surgery",
+      "Gastroenterology",
+      "ENT",
+      "Gynaecology and Obstetrics",
+      "Urology",
+      "Orthopaedics",
+      "Paediatrics",
+      "General Medicine"
+    ],
+    "services": [
+      "Insurance and mediclaim support",
+      "General surgery",
+      "Laparoscopic care",
+      "Inpatient treatment",
+      "Doctor appointments"
+    ],
+    "amenities": [
+      "4 operation theatres",
+      "ICU, ITU and NICU support",
+      "AI-monitored beds",
+      "Insurance desk",
+      "Patient guidance"
+    ],
+    "metrics": [
+      "100 beds",
+      "4 operation theatres",
+      "Founded 2004",
+      "100000+ in-patients served"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENuXxjn_KzEvBqMdZoozY76SQSgCybQI_Vnq0qV82JJIXmoXEEX-z656Tc0qnfNPtMjzGdrlCqBKHS26QNTcQFkq5TDT3WVClowSZQh_JpNBsrHIVm42S_A0eFM9ptEfwBlsPmUP0DjLg=w1200-h900-p-k-no",
+    "logo": "https://static.wixstatic.com/media/c72522_4453d88b104449ab8ac5a9e93dfbd9b3~mv2.png/v1/fill/w_380,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAENuXxjn_KzEvBqMdZoozY76SQSgCybQI_Vnq0qV82JJIXmoXEEX-z656Tc0qnfNPtMjzGdrlCqBKHS26QNTcQFkq5TDT3WVClowSZQh_JpNBsrHIVm42S_A0eFM9ptEfwBlsPmUP0DjLg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "2004",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.514124,
+      "lng": 88.3990403,
+      "label": "Genesis Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ils-hospitals-salt-lake-kolkata",
+    "name": "ILS Hospitals Salt Lake",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "2000",
+    "totalBeds": 85,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "ILS Hospitals Salt Lake has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Bariatric Surgery, Cardiology, Critical Care, and Gastroenterology. The facility stands out for 85 beds, 3 operation theatres, Established 2000, and NABH and NABL accredited, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as 24x7 emergency, Critical care, Health checkups, and Appointment booking, backed by on-site support features including 3 operation theatres, ICU and HDU support, and Pharmacy. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@ilshospitals.com",
+    "phone": "03340206500",
+    "alternatePhone": "9830400441",
+    "website": "https://ilshospitals.com/hospital/saltlake/",
+    "address": "DD 6, Salt Lake Bypass, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700064",
+    "locality": "Bidhannagar",
+    "landmark": "DD Block",
+    "emergencyContact": "03340206500",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/ilshospitals",
+    "twitter": "https://twitter.com/ILSHospitals",
+    "instagram": "https://www.instagram.com/ils_hospitals/",
+    "linkedin": "https://in.linkedin.com/company/ilshospitals",
+    "youtube": "https://www.youtube.com/channel/UCS4fYIBFRPKLq17QGVuB5ag/videos",
+    "specialties": [
+      "Bariatric Surgery",
+      "Cardiology",
+      "Critical Care",
+      "Gastroenterology",
+      "General and Laparoscopic Surgery",
+      "Obstetrics and Gynaecology",
+      "Paediatrics",
+      "Orthopaedics"
+    ],
+    "services": [
+      "24x7 emergency",
+      "Critical care",
+      "Health checkups",
+      "Appointment booking",
+      "Billing and payment support"
+    ],
+    "amenities": [
+      "3 operation theatres",
+      "ICU and HDU support",
+      "Pharmacy",
+      "Diagnostics",
+      "Patient billing desk"
+    ],
+    "metrics": [
+      "85 beds",
+      "3 operation theatres",
+      "Established 2000",
+      "NABH and NABL accredited"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxh2-5GLB4StyiOpv6OUW08d-IZS033taeOnd8OFeBd-KC6S1pe8ZaKU5FO2vH9M4lXR9SOCQ6GMLQncmYQvvZI_rFyCJUFrC5K8-31KEJVZ5VO_ZSCuoedqz635vikVh8LJo-R7-sHSAo=w1200-h900-p-k-no",
+    "logo": "https://ilshospitals.com/wp-content/uploads/2023/10/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxh2-5GLB4StyiOpv6OUW08d-IZS033taeOnd8OFeBd-KC6S1pe8ZaKU5FO2vH9M4lXR9SOCQ6GMLQncmYQvvZI_rFyCJUFrC5K8-31KEJVZ5VO_ZSCuoedqz635vikVh8LJo-R7-sHSAo=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH",
+      "NABL"
+    ],
+    "awards": [],
+    "establishedYear": "2000",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5891732,
+      "lng": 88.4109413,
+      "label": "ILS Hospitals Salt Lake",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 16,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "indian-institute-of-liver-and-digestive-sciences-kolkata",
+    "name": "Indian Institute of Liver and Digestive Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Kolkata, Indian Institute of Liver and Digestive Sciences delivers integrated care across Liver Transplant Surgery, Liver Care, and Digestive Care. Hospital capacity markers such as Google rating 3.8, 29+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Kolkata.",
+    "email": "",
+    "phone": "033 2434 2300",
+    "alternatePhone": "",
+    "website": "http://iilds.in/",
+    "address": "Shitala, East Sonarpur, Kolkata, West Bengal 700150",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700150",
+    "locality": "East Sonarpur",
+    "landmark": "Kolkata",
+    "emergencyContact": "033 2434 2300",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/IndianInstituteofLiverandDigestiveSciences/",
+    "twitter": "https://twitter.com/iilds_lfwb",
+    "instagram": "https://www.instagram.com/ilds_hospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC1ZiVhwp2rMSncLSP1C3esA",
+    "specialties": [
+      "Liver Transplant Surgery",
+      "Liver Care",
+      "Digestive Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "29+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpsvM7iWmYu3T8UCyuVy1VNesWrR2bVtBdH0Hf-tKMAsEwQRHP-QiLf21Nk1oyC6jTAFtk8BRORqRowbRVZ9L-hVqV_dXA15dkcemMnnxhGpwLwx8OAcevunUb-oqbCFZdLw02fwQaleCQ=w1200-h900-p-k-no",
+    "logo": "https://iilds.in/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpsvM7iWmYu3T8UCyuVy1VNesWrR2bVtBdH0Hf-tKMAsEwQRHP-QiLf21Nk1oyC6jTAFtk8BRORqRowbRVZ9L-hVqV_dXA15dkcemMnnxhGpwLwx8OAcevunUb-oqbCFZdLw02fwQaleCQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.4362319,
+      "lng": 88.4537972,
+      "label": "Indian Institute of Liver and Digestive Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 29,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-neurosciences-kolkata-kolkata",
+    "name": "Institute of Neurosciences Kolkata",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Institute of Neurosciences Kolkata offers coordinated hospital care with major focus on Brain Surgery and Neurosciences. With public-facing highlights like Google rating 4.5 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 4030 9999",
+    "alternatePhone": "",
+    "website": "http://neurokolkata.org/",
+    "address": "185, AJC Bose Rd, Elgin, Kolkata, West Bengal 700017",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700017",
+    "locality": "Elgin",
+    "landmark": "Elgin",
+    "emergencyContact": "033 4030 9999",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/neurokolkata/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/instituteofneuroscienceskol/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UCCzzhd2riT4_Oc3lWvzm1Kg",
+    "specialties": [
+      "Brain Surgery",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDsbTISQxU-Ts2t84Dc2Cor1t0b9NvGdDvd0tNwey5w5AXyDdau0eeHE1P5xFNekgFuCByeTQcYoLDCp4tC2SYbdFcJDCMOcwu4orp_62GVWUU4Q8W4lFkKiy-aUGIb3Nb4b7wGw=w1200-h900-p-k-no",
+    "logo": "https://www.neurokolkata.org/assets/ink-logo-color-CWTdWVVi.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDsbTISQxU-Ts2t84Dc2Cor1t0b9NvGdDvd0tNwey5w5AXyDdau0eeHE1P5xFNekgFuCByeTQcYoLDCp4tC2SYbdFcJDCMOcwu4orp_62GVWUU4Q8W4lFkKiy-aUGIb3Nb4b7wGw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.546981,
+      "lng": 88.3619801,
+      "label": "Institute of Neurosciences Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "institute-of-reproductive-medicine-irm-kolkata",
+    "name": "Institute of Reproductive Medicine (IRM)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Institute of Reproductive Medicine (IRM) offers coordinated hospital care with major focus on IVF and Reproductive Medicine. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 2321 5125",
+    "alternatePhone": "",
+    "website": "https://irmkolkata.org/",
+    "address": "Dr. B.n. Chakraborty Hospital, HB-36/A/3, 1st Cross Rd, HB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "1st Cross Rd",
+    "emergencyContact": "033 2321 5125",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/irmkolkata/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/irmkolkata/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "IVF",
+      "Reproductive Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUWv3vnauypX61w-aogFk8uTR5Ao3FDo2fps5Fu_QjM2W2ZGIoFEKFB2SnPlXKsebZpLsT52DYm3V8v4Kah24ml4nYlLdiWkGBXUOr0rdU4XYOxH2JR1BXivbTnweSiITaHQyG=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEUWv3vnauypX61w-aogFk8uTR5Ao3FDo2fps5Fu_QjM2W2ZGIoFEKFB2SnPlXKsebZpLsT52DYm3V8v4Kah24ml4nYlLdiWkGBXUOr0rdU4XYOxH2JR1BXivbTnweSiITaHQyG=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5751871,
+      "lng": 88.416922,
+      "label": "Institute of Reproductive Medicine (IRM)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "jbch-joint-and-bone-care-hospital-kolkata",
+    "name": "JBCH (Joint & Bone Care Hospital)",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, JBCH (Joint & Bone Care Hospital) offers coordinated hospital care with major focus on Hip Replacement Surgery and Orthopaedics. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 4601 8095",
+    "alternatePhone": "",
+    "website": "https://jbchrpl.com/",
+    "address": "DD-35, 2nd Avenue, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700064",
+    "locality": "Bidhannagar",
+    "landmark": "DD Block",
+    "emergencyContact": "033 4601 8095",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/JBCHKolkata/",
+    "twitter": "https://x.com/JBCH42464513",
+    "instagram": "https://www.instagram.com/jbch_hospital/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/@jbch-hospital",
+    "specialties": [
+      "Hip Replacement Surgery",
+      "Orthopaedics"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5907011%2C88.4105577&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://www.jbchrpl.com/wp-content/uploads/2025/01/download-removebg-preview.png",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5907011%2C88.4105577&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5907011%2C88.4105577&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5907011%2C88.4105577&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5907011,
+      "lng": 88.4105577,
+      "label": "JBCH (Joint & Bone Care Hospital)",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kolkata-kidney-institute-kolkata",
+    "name": "KOLKATA KIDNEY INSTITUTE",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "KOLKATA KIDNEY INSTITUTE has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Kidney Transplant Surgery and Kidney Care. Operational strengths including Google rating 4.2 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2484 0009",
+    "alternatePhone": "",
+    "website": "https://kolkatakidneyinstitute.com/",
+    "address": "823, Kalikapur Rd, Purbachal Kalitala, Kalikapur, Haltu, Kolkata, West Bengal 700078",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700078",
+    "locality": "Haltu",
+    "landmark": "Purbachal Kalitala",
+    "emergencyContact": "033 2484 0009",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no",
+    "logo": "https://kolkatakidneyinstitute.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZlvo8Ep-uSjgXZkFqWzqJ4uwQmCn1Zl7oNt276QAMO8hcp37TWf_6zYgInMQwAYnvEwtkfk1MzVq6Uy2ICt8eoaaa7Y1-oAyHJlJ9ZJWCDqvok11A_B5hglr3GiIV1cVkpPrWSXulUAJe=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.503913,
+      "lng": 88.3979072,
+      "label": "KOLKATA KIDNEY INSTITUTE",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "krishnaya-institute-of-cardiac-and-fetal-sciences-kolkata",
+    "name": "Krishnaya Institute of Cardiac and Fetal Sciences",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Krishnaya Institute of Cardiac and Fetal Sciences has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cardiac Surgery, Cardiac Care, and Fetal Medicine. With public-facing highlights like Google rating 4.8 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 2323 2013",
+    "alternatePhone": "",
+    "website": "https://www.krishnayahospital.com/",
+    "address": "164 A CANAL SOUTH ROAD, TANGRA METROPOLITAN CO-OPERATIVE SOCIETY, LANDMARK - BYPASS DHABA, near Atindra Medicare & Dialysis Centre, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "near Atindra Medicare & Dialysis Centre",
+    "landmark": "near Atindra Medicare & Dialysis Centre, Kolkata, West Bengal 700107",
+    "emergencyContact": "033 2323 2013",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/krishnayahospital/",
+    "twitter": "https://x.com/KrishnayaD98262",
+    "instagram": "https://www.instagram.com/kicfs_0/",
+    "linkedin": "",
+    "youtube": "http://www.youtube.com/@KrishnayaInstituteofCardia-i6m",
+    "specialties": [
+      "Cardiac Surgery",
+      "Cardiac Care",
+      "Fetal Medicine"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcHnq82P5FmJLcD5EL5sb9vMX2_7VTrFpta3IUkoVdNlqO7fXF4mLRsSYWdpDrWIkbugqYba1ohZ6BUjwUUhSnsIdK0C-bAx4EFwHK1coZkh-HhvnXM6mVPEpLBnFyETjsYcg=w1200-h900-p-k-no",
+    "logo": "https://www.krishnayahospital.com/images/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcHnq82P5FmJLcD5EL5sb9vMX2_7VTrFpta3IUkoVdNlqO7fXF4mLRsSYWdpDrWIkbugqYba1ohZ6BUjwUUhSnsIdK0C-bAx4EFwHK1coZkh-HhvnXM6mVPEpLBnFyETjsYcg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5528037,
+      "lng": 88.4045074,
+      "label": "Krishnaya Institute of Cardiac and Fetal Sciences",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "liv-gastro-kolkata",
+    "name": "Liv Gastro",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Liv Gastro brings together specialists for Liver Transplant Surgery and Gastroenterology. With public-facing highlights like Google rating 4.9 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "080 6274 7550",
+    "alternatePhone": "",
+    "website": "http://www.livgastro.in/",
+    "address": "Besides amri institute of diabetes & hormonal disorder, 37/1, Gariahat Rd, opposite AMRI, Dhakuria, South End Park, Kolkata, West Bengal 700029",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700029",
+    "locality": "South End Park",
+    "landmark": "opposite AMRI, Dhakuria, South End Park, Kolkata, West Bengal 700029",
+    "emergencyContact": "080 6274 7550",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/LivGastro-110836661436739/",
+    "twitter": "https://twitter.com/livgastro",
+    "instagram": "https://www.instagram.com/livgastro_in/",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/channel/UC1j-FZuy0wOMQMPW-OCHs3Q",
+    "specialties": [
+      "Liver Transplant Surgery",
+      "Gastroenterology"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQZgva_cGLj5y1kSVNG0H4XTD55ubYJrp5QcNFKhkeucNLjfalx0XXAv1qi7iVzxXU2qB0a339kxZiKMBzV6u7NAKc8hLZcZkIPwUjWHRbQRZlI8dGOv8XnBbERzkPIgzXBPeRhA=w1200-h900-p-k-no",
+    "logo": "https://livgastro.in/wp-content/uploads/2025/12/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQZgva_cGLj5y1kSVNG0H4XTD55ubYJrp5QcNFKhkeucNLjfalx0XXAv1qi7iVzxXU2qB0a339kxZiKMBzV6u7NAKc8hLZcZkIPwUjWHRbQRZlI8dGOv8XnBbERzkPIgzXBPeRhA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5120619,
+      "lng": 88.3671985,
+      "label": "Liv Gastro",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "manipal-hospital-em-bypass-kolkata",
+    "name": "Manipal Hospital EM Bypass",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Manipal Hospital EM Bypass has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Urologist Surgery. Operational strengths including Google rating 4.6, 210+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 6907 0000",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/em-bypass/?utm_source=GMB&utm_medium=",
+    "address": "127, Eastern Metropolitan Bypass, Nitai Nagar, Mukundapur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Mukundapur",
+    "landmark": "Nitai Nagar",
+    "emergencyContact": "033 6907 0000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ManipalHospitalsIndia",
+    "twitter": "https://x.com/ManipalHealth",
+    "instagram": "https://www.instagram.com/manipalhospitals/",
+    "linkedin": "https://in.linkedin.com/company/manipal-hospitals",
+    "youtube": "https://www.youtube.com/user/manipalhospitals",
+    "specialties": [
+      "Urologist Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "210+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy1cUUls7a79b8vpGh0off8Sxl0sYe16mB9QMpXAMD9L9Hka85APQIsbpi71DWQBV6816534pE_ID-g_zQHWPWIOwOD6fXtgUyj7aEN8rESRJALCaMtK5a5TbdryOM7MzIqq81uQidGpcE=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/em-bypass/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGy1cUUls7a79b8vpGh0off8Sxl0sYe16mB9QMpXAMD9L9Hka85APQIsbpi71DWQBV6816534pE_ID-g_zQHWPWIOwOD6fXtgUyj7aEN8rESRJALCaMtK5a5TbdryOM7MzIqq81uQidGpcE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      }
+    ],
+    "map": {
+      "lat": 22.4942277,
+      "lng": 88.400696,
+      "label": "Manipal Hospital EM Bypass",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 210,
+    "distance": "",
+    "hours": "01:00-23:30"
+  },
+  {
+    "slug": "manipal-hospital-salt-lake-kolkata",
+    "name": "Manipal Hospital Salt Lake",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 95,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Manipal Hospital Salt Lake brings together specialists for Accident and Emergency Care, Cardiology, Cardiothoracic Vascular Surgery, and General Surgery. The facility stands out for 95 beds, 24/7 working hours, ICU/HDU/NICU support, and NABH and NABL, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as 24/7 emergency, 24-hour ambulance service, ICU, HDU and NICU support, and Dialysis, backed by on-site support features including Pharmacy, Radiology, and Laboratory. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "info@manipalhospitals.com",
+    "phone": "033 6907 0001",
+    "alternatePhone": "033 2222 1111",
+    "website": "https://www.manipalhospitals.com/saltlake/",
+    "address": "IB-193, Broadway Rd, IB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "IB Block",
+    "emergencyContact": "033 2222 1111",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/ManipalHospitalsIndia",
+    "twitter": "https://x.com/ManipalHealth",
+    "instagram": "https://www.instagram.com/manipalhospitals/",
+    "linkedin": "https://in.linkedin.com/company/manipal-hospitals",
+    "youtube": "https://www.youtube.com/user/manipalhospitals",
+    "specialties": [
+      "Accident and Emergency Care",
+      "Cardiology",
+      "Cardiothoracic Vascular Surgery",
+      "General Surgery",
+      "ICU and Critical Care",
+      "Laparoscopic Surgery",
+      "Obstetrics and Gynaecology",
+      "Orthopaedics",
+      "Paediatric and Child Care",
+      "Surgical Oncology",
+      "Urology"
+    ],
+    "services": [
+      "24/7 emergency",
+      "24-hour ambulance service",
+      "ICU, HDU and NICU support",
+      "Dialysis",
+      "Endoscopy",
+      "Home healthcare"
+    ],
+    "amenities": [
+      "Pharmacy",
+      "Radiology",
+      "Laboratory",
+      "Ambulance",
+      "Physiotherapy",
+      "Nutrition and dietetics"
+    ],
+    "metrics": [
+      "95 beds",
+      "24/7 working hours",
+      "ICU/HDU/NICU support",
+      "NABH and NABL"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEheej-AYARZLIbyGPcq5U8SaghKcZYSMMl4KB-oaOaRPfkG6PcS7B0wbwGrOVNWdsotSTkTDe3oObhSkKcoT5rzSVe84vHBaQgEKEG5PJY0nW4weEFwDEumYC42quaOeUUOvBx6X-wCaSE=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/saltlake/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEheej-AYARZLIbyGPcq5U8SaghKcZYSMMl4KB-oaOaRPfkG6PcS7B0wbwGrOVNWdsotSTkTDe3oObhSkKcoT5rzSVe84vHBaQgEKEG5PJY0nW4weEFwDEumYC42quaOeUUOvBx6X-wCaSE=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH",
+      "NABL"
+    ],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      }
+    ],
+    "map": {
+      "lat": 22.5724101,
+      "lng": 88.4127851,
+      "label": "Manipal Hospital Salt Lake",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 44,
+    "distance": "",
+    "hours": "01:00-23:30"
+  },
+  {
+    "slug": "manipal-hospitals-mukundapur-kolkata",
+    "name": "Manipal Hospitals - Mukundapur",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose Manipal Hospitals - Mukundapur for its strength in Urologist Surgery. Operational strengths including Google rating 4.7, 13+ public reviews, and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 6907 0000",
+    "alternatePhone": "",
+    "website": "https://www.manipalhospitals.com/mukundapur/?utm_source=gmb&utm_medium=click&utm_campaign=manipal_hospitals_mukundapur",
+    "address": "223 & 230, Pano Rd, behind Metro Cash & Carry, Purba Jadavpur, Landmark:, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Landmark:",
+    "landmark": "behind Metro Cash & Carry",
+    "emergencyContact": "033 6907 0000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/ManipalHospitalsIndia",
+    "twitter": "https://x.com/ManipalHealth",
+    "instagram": "https://www.instagram.com/manipalhospitals/",
+    "linkedin": "https://in.linkedin.com/company/manipal-hospitals",
+    "youtube": "https://www.youtube.com/user/manipalhospitals",
+    "specialties": [
+      "Urologist Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.7",
+      "13+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHco-4JHRuKv5Uzrhkc1jf7n_GInJBmDmRohSoNmhrx3u8qtjRM4MP3C6CjjYANc-BWDroHDelOPHWcCjevjq8MgsG-mndhB8nHnc5M5VaiQtIHJJi_qBKSErECotoX6dmPAZ7c=w1200-h900-p-k-no",
+    "logo": "https://www.manipalhospitals.com/mukundapur/assets/images/homepage/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHco-4JHRuKv5Uzrhkc1jf7n_GInJBmDmRohSoNmhrx3u8qtjRM4MP3C6CjjYANc-BWDroHDelOPHWcCjevjq8MgsG-mndhB8nHnc5M5VaiQtIHJJi_qBKSErECotoX6dmPAZ7c=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": false,
+        "open": "01:00",
+        "close": "23:30"
+      }
+    ],
+    "map": {
+      "lat": 22.4941477,
+      "lng": 88.402129,
+      "label": "Manipal Hospitals - Mukundapur",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.7,
+    "reviews": 13,
+    "distance": "",
+    "hours": "01:00-23:30"
+  },
+  {
+    "slug": "neotia-bhagirathi-woman-and-child-care-centre-rawdon-street-kolkata",
+    "name": "Neotia Bhagirathi Woman and Child Care Centre, Rawdon Street",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Kolkata, Neotia Bhagirathi Woman and Child Care Centre, Rawdon Street offers coordinated hospital care with major focus on IVF and Women and Child Care. The facility stands out for Google rating 4.3, 119+ public reviews, and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "",
+    "phone": "033 4040 5000",
+    "alternatePhone": "",
+    "website": "https://neotiahospital.com/",
+    "address": "2, Rawdon St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700017",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700017",
+    "locality": "Park Street area",
+    "landmark": "Mullick Bazar",
+    "emergencyContact": "033 4040 5000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/neotiabhagirathi",
+    "twitter": "https://twitter.com/BNWCCC",
+    "instagram": "https://www.instagram.com/neotia.bhagirathi",
+    "linkedin": "https://www.linkedin.com/company/neotia-bhagirathi-woman-and-child-care-centre/posts/?feedView=all",
+    "youtube": "https://www.youtube.com/channel/UCafohezRARY31X_kjWHsT8Q",
+    "specialties": [
+      "IVF",
+      "Women and Child Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3",
+      "119+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjtU0LYEXZj_WNhT318CuJj2QY7lIVDgKYXiAcKODe0NsQpOjzdAddnr5yoxJLJI7V4e_NjvWlYfU7JBFruhbO8l7H2K6DT3XdU-m8nBgXLfaMBOtK4o3xMU63iKfwTUhNGWVC-w=w1200-h900-p-k-no",
+    "logo": "https://neotiahospital.com/assets/img/logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFjtU0LYEXZj_WNhT318CuJj2QY7lIVDgKYXiAcKODe0NsQpOjzdAddnr5yoxJLJI7V4e_NjvWlYfU7JBFruhbO8l7H2K6DT3XdU-m8nBgXLfaMBOtK4o3xMU63iKfwTUhNGWVC-w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5473615,
+      "lng": 88.3593677,
+      "label": "Neotia Bhagirathi Woman and Child Care Centre, Rawdon Street",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 119,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-kolkata",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery and Kidney Care. Its infrastructure includes Google rating 4.6 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NKPCKidneyClinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/nkpc_kidney_clinic/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no",
+    "logo": "https://nkpc.in/images/nkpc_kidney_clinic_logo22-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "parkview-super-speciality-hospital-kolkata",
+    "name": "Parkview Super Speciality Hospital",
+    "type": "Super Speciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 77,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Parkview Super Speciality Hospital has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Haemato-Oncology, Bone Marrow Transplant, Neurology, and Urology. Its infrastructure includes 77 beds, NABH accredited, Emergency contact active, and Bone marrow transplant unit, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include 24x7 emergency support, Bone marrow transplant care, Chemotherapy support, and Blood disorder treatment, while day-to-day patient convenience is improved through Bone marrow transplant unit, Pharmacy, and Diagnostics. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@parkviewhospital.in",
+    "phone": "033 4059 1111",
+    "alternatePhone": "70037 32098",
+    "website": "https://www.parkviewhospital.in/",
+    "address": "HB 36 –A / 4 & A / 5/ 1, Salt Lake Bypass, HB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "HB Block",
+    "emergencyContact": "70037 32098",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/Parkviewsuperspecialityhospital",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/parkviewhospital/",
+    "linkedin": "https://in.linkedin.com/company/parkview-superspeciality-hospital",
+    "youtube": "https://www.youtube.com/channel/UCf5DbjHc8WqoNeo7q1iLalA/featured",
+    "specialties": [
+      "Haemato-Oncology",
+      "Bone Marrow Transplant",
+      "Neurology",
+      "Urology",
+      "Paediatrics",
+      "Cardiology",
+      "ENT",
+      "General Surgery"
+    ],
+    "services": [
+      "24x7 emergency support",
+      "Bone marrow transplant care",
+      "Chemotherapy support",
+      "Blood disorder treatment",
+      "Diagnostics"
+    ],
+    "amenities": [
+      "Bone marrow transplant unit",
+      "Pharmacy",
+      "Diagnostics",
+      "Emergency desk",
+      "Ambulance support",
+      "Patient assistance"
+    ],
+    "metrics": [
+      "77 beds",
+      "NABH accredited",
+      "Emergency contact active",
+      "Bone marrow transplant unit"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnszrRM3PrvSNV_qLb4k15tiJE71vXdjMp85G3zJ6DtMEUOFf4gHhYnllDpEKuU35oFbCOZI6USPr4f2LevOScJbwuSHMW45SUOYMHUfBcCpyzQvTyDU52QiONo59CwYPtPxrBqw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFnszrRM3PrvSNV_qLb4k15tiJE71vXdjMp85G3zJ6DtMEUOFf4gHhYnllDpEKuU35oFbCOZI6USPr4f2LevOScJbwuSHMW45SUOYMHUfBcCpyzQvTyDU52QiONo59CwYPtPxrBqw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH"
+    ],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5751387,
+      "lng": 88.4172367,
+      "label": "Parkview Super Speciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "rsv-hospital-pvt-ltd-kolkata",
+    "name": "RSV Hospital Pvt. Ltd.",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Kolkata often choose RSV Hospital Pvt. Ltd. for its strength in Kidney Transplant Surgery. Hospital capacity markers such as Google rating 4.0, 2+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 4081 8000",
+    "alternatePhone": "",
+    "website": "https://rsvhospital.com/",
+    "address": "40, Deshpran Sasmal Rd, Tollygunge Phari, Tollygunge, Kolkata, West Bengal 700033",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700033",
+    "locality": "Tollygunge",
+    "landmark": "Tollygunge Phari",
+    "emergencyContact": "033 4081 8000",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/rsvhospital/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/rsvhospital_kolkata/",
+    "linkedin": "https://www.linkedin.com/company/rsv-hospital/",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0",
+      "2+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEemN2KuCWn1-ul9-PZZLkiHeBa0B2Lns50dyuCBiiqAdbB1l7v14mZKisJjcmRaBOGI7OtrVZ1HYMz7BbTS-VYpfnUviIqcbwvIcJL-osLBK2m_v1IlLdX_ot3yj4iqfdVdOmrpg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEemN2KuCWn1-ul9-PZZLkiHeBa0B2Lns50dyuCBiiqAdbB1l7v14mZKisJjcmRaBOGI7OtrVZ1HYMz7BbTS-VYpfnUviIqcbwvIcJL-osLBK2m_v1IlLdX_ot3yj4iqfdVdOmrpg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5031063,
+      "lng": 88.3445146,
+      "label": "RSV Hospital Pvt. Ltd.",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 2,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ruby-general-hospital-kolkata",
+    "name": "Ruby General Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "1995",
+    "totalBeds": 556,
+    "icuBeds": 91,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted multispeciality hospital in Kolkata, Ruby General Hospital delivers integrated care across Cardiology, Critical Care, Pulmonology, and Laparoscopic Surgery. Hospital capacity markers such as 556 beds, 91 ICU beds, NABH accredited, and 24/7 emergency support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through 24x7 emergency admission, Bed booking, Insurance desk, and Diagnostics and practical amenities like MRI and CT imaging, Mammography, and Emergency and trauma care centre. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "ruby@rubyhospital.com",
+    "phone": "033 66011800",
+    "alternatePhone": "98301 72543",
+    "website": "https://rubyhospital.com/",
+    "address": "576, Anandapur Main Rd, Golpark, Sector I, Kasba, Kolkata, West Bengal 700107",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700107",
+    "locality": "Kasba",
+    "landmark": "Golpark",
+    "emergencyContact": "98311 79175",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/rubyhospital/",
+    "twitter": "https://twitter.com/RubyHospital/",
+    "instagram": "https://www.instagram.com/rubygeneralhospital/",
+    "linkedin": "https://www.linkedin.com/company/rubyhospital/",
+    "youtube": "https://www.youtube.com/channel/UCveK7RyPQQkUd5WVp5W6tSg/videos",
+    "specialties": [
+      "Cardiology",
+      "Critical Care",
+      "Pulmonology",
+      "Laparoscopic Surgery",
+      "Neurology",
+      "Oncology",
+      "Orthopaedics",
+      "Paediatrics"
+    ],
+    "services": [
+      "24x7 emergency admission",
+      "Bed booking",
+      "Insurance desk",
+      "Diagnostics",
+      "Health checkups",
+      "Cancer centre support"
+    ],
+    "amenities": [
+      "MRI and CT imaging",
+      "Mammography",
+      "Emergency and trauma care centre",
+      "Pharmacy",
+      "Insurance desk",
+      "Corporate help desk"
+    ],
+    "metrics": [
+      "556 beds",
+      "91 ICU beds",
+      "NABH accredited",
+      "24/7 emergency"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDtTVXPoHTVYrBReT2eeUtNubxAyGxdYKtw8dV9gZxJOa_ilLmvuKwuTi_RFBAy40smZtBi-ExYvUV8x8t7u9cWV9tPwCYcOaOzZO7Qg0PmSfcwGBXPPROG2DKzgArzGrBLpIhjkDamc_7=w1200-h900-p-k-no",
+    "logo": "https://rubyhospital.com/wp-content/themes/rubyhospital/assets/images/small_logo1.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEDtTVXPoHTVYrBReT2eeUtNubxAyGxdYKtw8dV9gZxJOa_ilLmvuKwuTi_RFBAy40smZtBi-ExYvUV8x8t7u9cWV9tPwCYcOaOzZO7Qg0PmSfcwGBXPPROG2DKzgArzGrBLpIhjkDamc_7=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH",
+      "ISO 9001:2015"
+    ],
+    "awards": [],
+    "establishedYear": "1995",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5135084,
+      "lng": 88.402884,
+      "label": "Ruby General Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 50,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "samaritan-elgin-road-kolkata",
+    "name": "Samaritan - Elgin Road",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Samaritan - Elgin Road has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Orthopedic Surgery. The facility stands out for Google rating 4.4 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "033 4060 8313",
+    "alternatePhone": "",
+    "website": "https://www.samaritancare.in/",
+    "address": "10/4D, Elgin Rd, Sreepally, Bhowanipore, Kolkata, West Bengal 700020",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700020",
+    "locality": "Bhowanipore",
+    "landmark": "Sreepally",
+    "emergencyContact": "033 4060 8313",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/samaritankolkata",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/samaritankolkata",
+    "linkedin": "https://in.linkedin.com/company/samaritanhospitalkolkata",
+    "youtube": "https://www.youtube.com/@samaritan-medicalsurgicalc891",
+    "specialties": [
+      "Orthopedic Surgery"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5380175%2C88.350592&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "https://samaritancare.in/wp-content/uploads/2026/05/logo.webp",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5380175%2C88.350592&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5380175%2C88.350592&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5380175%2C88.350592&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5380175,
+      "lng": 88.350592,
+      "label": "Samaritan - Elgin Road",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "seeds-of-innocence-ivf-centre-best-ivf-centre-in-kolkata-kolkata",
+    "name": "Seeds of Innocence IVF Centre - Best IVF Centre in Kolkata",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Kolkata, Seeds of Innocence IVF Centre - Best IVF Centre in Kolkata brings together specialists for IVF and Fertility Care. Its infrastructure includes Google rating 4.9 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Kolkata can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "098103 50512",
+    "alternatePhone": "",
+    "website": "https://www.seedsofinnocens.com/west-bengal/best-ivf-centre-in-kolkata/",
+    "address": "2nd floor, Mangaldeep Island(Khaki Estate, 12, Street Number 702, near managaldeep metro station, AA II, Action Area IID, Newtown, New Town, West Bengal 700161",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700161",
+    "locality": "Newtown",
+    "landmark": "near managaldeep metro station, AA II, Action Area IID, Newtown, New Town, West Bengal 700161",
+    "emergencyContact": "098103 50512",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/seedsofinnocens/",
+    "twitter": "https://x.com/seedsofinnocens",
+    "instagram": "https://www.instagram.com/seedsofinnocensivf",
+    "linkedin": "https://www.linkedin.com/company/seedsofinnocens",
+    "youtube": "https://www.youtube.com/@seedsofinnocens",
+    "specialties": [
+      "IVF",
+      "Fertility Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoUyiY5hzTSlAWtcMKNPtMrPvlH8CWvR0EKYK1SJ8N7dslbPhfIoVSqMLLzoeA5yU38PR7SqFBAcfloDa1_UgpQKb0fb7glN_LgC6yuUs95TAfr1HwBfjw1JAIIir2o9q3-9pqqTQsR4Xy=w1200-h900-p-k-no",
+    "logo": "https://www.seedsofinnocens.com/assets/img/Header%20Logo.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEoUyiY5hzTSlAWtcMKNPtMrPvlH8CWvR0EKYK1SJ8N7dslbPhfIoVSqMLLzoeA5yU38PR7SqFBAcfloDa1_UgpQKb0fb7glN_LgC6yuUs95TAfr1HwBfjw1JAIIir2o9q3-9pqqTQsR4Xy=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": false,
+        "open": "09:00",
+        "close": "18:00"
+      }
+    ],
+    "map": {
+      "lat": 22.6215413,
+      "lng": 88.4600322,
+      "label": "Seeds of Innocence IVF Centre - Best IVF Centre in Kolkata",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "09:00-18:00"
+  },
+  {
+    "slug": "techno-india-dama-healthcare-and-medical-centre-kolkata",
+    "name": "Techno India DAMA Healthcare & Medical Centre",
+    "type": "Super Speciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 200,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Techno India DAMA Healthcare & Medical Centre is a prominent super speciality hospital in Kolkata, known for structured tertiary care across Gastroenterology, Orthopaedics, Urology, and Pulmonology. Operational strengths including 200 beds, 24x7 dialysis, Tertiary care setup, and Patient-first care model make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through 24x7 dialysis, Doctor booking, Investigations, and Critical care, supported by NICU, Dialysis unit, and Critical care. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "contact.technodama@gmail.com",
+    "phone": "033 61234567",
+    "alternatePhone": "8017000093",
+    "website": "https://www.technoindiahealth.com/",
+    "address": "LB 10, Eastern Metropolitan Bypass, Chingrighata, LB Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "Chingrighata",
+    "emergencyContact": "8017000093",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/tigdamahospital/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "https://www.youtube.com/watch?v=GQVAv5Q0Y3E",
+    "specialties": [
+      "Gastroenterology",
+      "Orthopaedics",
+      "Urology",
+      "Pulmonology",
+      "Dermatology",
+      "NICU",
+      "Dialysis",
+      "Maxillofacial Surgery"
+    ],
+    "services": [
+      "24x7 dialysis",
+      "Doctor booking",
+      "Investigations",
+      "Critical care",
+      "24/7 customer support"
+    ],
+    "amenities": [
+      "NICU",
+      "Dialysis unit",
+      "Critical care",
+      "Diagnostics",
+      "Pharmacy",
+      "Patient assistance"
+    ],
+    "metrics": [
+      "200 beds",
+      "24x7 dialysis",
+      "Tertiary care setup",
+      "Patient-first care model"
+    ],
+    "image": "https://maps.google.com/maps/api/staticmap?center=22.5592744%2C88.4108656&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+    "logo": "",
+    "gallery": [
+      "https://maps.google.com/maps/api/staticmap?center=22.5592744%2C88.4108656&zoom=17&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5592744%2C88.4108656&zoom=18&size=1200x1200&language=en&sensor=false&maptype=roadmap&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0",
+      "https://maps.google.com/maps/api/staticmap?center=22.5592744%2C88.4108656&zoom=18&size=1200x1200&language=en&sensor=false&maptype=satellite&key=AIzaSyBoYjeRtfVI0Jd8Q_9mnflo9i4sOYpShB0"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5592744,
+      "lng": 88.4108656,
+      "label": "Techno India DAMA Healthcare & Medical Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 7,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "the-speciality-clinic-kolkata",
+    "name": "The Speciality Clinic",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "The Speciality Clinic has built a strong reputation in Kolkata for multidisciplinary treatment pathways covering Cosmetic Surgery and Speciality Care. Operational strengths including Google rating 4.9 and Official website listed make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Kolkata.",
+    "email": "",
+    "phone": "033 4604 3329",
+    "alternatePhone": "",
+    "website": "http://www.thespecialityclinickolkata.com/",
+    "address": "GC-211, GC Block, Sector 3, Bidhannagar, Kolkata, West Bengal 700106",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700106",
+    "locality": "Bidhannagar",
+    "landmark": "Sector 3",
+    "emergencyContact": "033 4604 3329",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/TheSpecialityClinickolkata/",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.9",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfqi3Gq-jZEwQ9oUcLv7FjFtNQfDuBguuwjwr7YIbt9AL67W3zY-eOBKiPxBA9dTUjFlzFTLSSU2o0Z_78prZn7_YbF4go9EL7bIcoSFE34lSRc9mkNFn1hKnpTPpZXw9EB_44=w1200-h900-p-k-no",
+    "logo": "http://www.thespecialityclinickolkata.com/images/logo.jpg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEfqi3Gq-jZEwQ9oUcLv7FjFtNQfDuBguuwjwr7YIbt9AL67W3zY-eOBKiPxBA9dTUjFlzFTLSSU2o0Z_78prZn7_YbF4go9EL7bIcoSFE34lSRc9mkNFn1hKnpTPpZXw9EB_44=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.578195,
+      "lng": 88.4133262,
+      "label": "The Speciality Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.9,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "woodlands-multispeciality-hospital-kolkata",
+    "name": "Woodlands Multispeciality Hospital",
+    "type": "Multispeciality Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "1947",
+    "totalBeds": 258,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted multispeciality hospital in Kolkata, Woodlands Multispeciality Hospital delivers integrated care across Cardiology, Emergency and Trauma Care, GI and Minimal Access Surgery, and Kidney Care. Operational strengths including 258 beds, Established 1947, 24/7 helpline, and NABH accredited make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through 24x7 emergency care, Home care, International patient support, and Health checkups, supported by Ambulance, Diagnostics, and Pharmacy. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Kolkata.",
+    "email": "enquiry@woodlandshospital.in",
+    "phone": "033 4033 7000",
+    "alternatePhone": "033 40337001",
+    "website": "https://www.woodlandshospital.in/",
+    "address": "8/5, Alipore Rd, Alipore, Kolkata, West Bengal 700027",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700027",
+    "locality": "Alipore",
+    "landmark": "Alipore",
+    "emergencyContact": "033 40337001",
+    "emergencyServices": true,
+    "facebook": "https://www.facebook.com/WoodlandsHospitalKolkata/",
+    "twitter": "https://twitter.com/WoodlandsKol",
+    "instagram": "https://www.instagram.com/woodlandshospitalkolkata/",
+    "linkedin": "https://in.linkedin.com/company/woodlandshospital",
+    "youtube": "https://www.youtube.com/channel/UC5oQ0ty3Be63KT6Gk-ArwcA",
+    "specialties": [
+      "Cardiology",
+      "Emergency and Trauma Care",
+      "GI and Minimal Access Surgery",
+      "Kidney Care",
+      "Orthopaedics and Joint Replacement",
+      "Obstetrics and Gynaecology",
+      "Oncology",
+      "Urology"
+    ],
+    "services": [
+      "24x7 emergency care",
+      "Home care",
+      "International patient support",
+      "Health checkups",
+      "Doctor appointments"
+    ],
+    "amenities": [
+      "Ambulance",
+      "Diagnostics",
+      "Pharmacy",
+      "Home care support",
+      "Critical care",
+      "Patient helpline"
+    ],
+    "metrics": [
+      "258 beds",
+      "Established 1947",
+      "24/7 helpline",
+      "NABH accredited"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfoWgoAgekFJ_gGXpKa2JrbCruP3XtirFRoh1oFyUD6jCzUOzMN6ZHZzbMUgoUcqN5EGSwJujp1YCvCVczMw0RZteC_D6ju6o2ec1lAY8J0qgHlJs-dVwdHQy9mu_fbnaRvlVU=w1200-h900-p-k-no",
+    "logo": "https://www.woodlandshospital.in/images/RP-Sanjiv_Goenka_Group_logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGfoWgoAgekFJ_gGXpKa2JrbCruP3XtirFRoh1oFyUD6jCzUOzMN6ZHZzbMUgoUcqN5EGSwJujp1YCvCVczMw0RZteC_D6ju6o2ec1lAY8J0qgHlJs-dVwdHQy9mu_fbnaRvlVU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [
+      "NABH"
+    ],
+    "awards": [],
+    "establishedYear": "1947",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.5322418,
+      "lng": 88.3291062,
+      "label": "Woodlands Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 3,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

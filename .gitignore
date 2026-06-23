@@ -1,0 +1,11 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+# Uploaded images (keep the folder, ignore its contents)
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Compiled TypeScript server output
+dist-server/

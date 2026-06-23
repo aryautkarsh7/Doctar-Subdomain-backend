@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doctar — Video Manager</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+      --primary: #5e4091;
+      --primary-dark: #4a3275;
+      --primary-light: #f5f0ff;
+      --bg: #f7f6fb;
+      --border: #e8e4f0;
+      --text: #1a1a2e;
+      --muted: #88889b;
+      --green: #10b981;
+      --red: #ef4444;
+      --radius: 16px;
+      --shadow-sm: 0 2px 10px rgba(94,64,145,0.06);
+      --shadow-md: 0 8px 28px rgba(94,64,145,0.12);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    body { background: var(--bg); color: var(--text); -webkit-font-smoothing: antialiased; }
+
+    /* ── LOGIN ───────────────────────────────────────────── */
+    .login-screen {
+      min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      padding: 20px; background:
+        radial-gradient(circle at 15% 15%, rgba(94,64,145,0.12), transparent 45%),
+        radial-gradient(circle at 85% 85%, rgba(94,64,145,0.1), transparent 45%), var(--bg);
+    }
+    .login-card {
+      background: #fff; border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 44px 36px; width: 100%; max-width: 400px; text-align: center; box-shadow: var(--shadow-md);
+    }
+    .login-logo {
+      width: 60px; height: 60px; border-radius: 16px; background: var(--primary); color: #fff;
+      display: flex; align-items: center; justify-content: center; font-size: 28px; font-weight: 800;
+      margin: 0 auto 20px; box-shadow: 0 8px 20px rgba(94,64,145,0.3);
+    }
+    .login-card h1 { font-size: 1.3rem; font-weight: 800; margin-bottom: 8px; }
+    .login-card p { color: var(--muted); font-size: 0.9rem; margin-bottom: 26px; }
+    .login-card input {
+      width: 100%; padding: 13px 16px; border: 1.5px solid var(--border); border-radius: 12px;
+      font-size: 0.95rem; outline: none; margin-bottom: 14px; transition: border-color 0.2s;
+    }
+    .login-card input:focus { border-color: var(--primary); }
+    .login-card button {
+      width: 100%; padding: 13px; background: var(--primary); color: #fff; border: none;
+      border-radius: 12px; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: background 0.2s;
+    }
+    .login-card button:hover { background: var(--primary-dark); }
+    .login-error { color: var(--red); font-size: 0.85rem; margin-top: 12px; min-height: 18px; font-weight: 600; }
+
+    /* ── APP LAYOUT ──────────────────────────────────────── */
+    .vm-app { display: none; height: 100vh; overflow: hidden; }
+    .vm-app.show { display: flex; }
+
+    /* LEFT SIDEBAR */
+    .vm-sidebar {
+      width: 300px; flex-shrink: 0; background: var(--primary); color: #fff;
+      display: flex; flex-direction: column; height: 100vh;
+    }
+    .vm-sidebar-head {
+      padding: 20px; border-bottom: 1px solid rgba(255,255,255,0.12);
+      display: flex; align-items: center; gap: 12px;
+    }
+    .vm-sidebar-head .logo { width: 38px; height: 38px; border-radius: 10px; background: rgba(255,255,255,0.18);
+      display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem; }
+    .vm-sidebar-head h1 { font-size: 1.05rem; font-weight: 800; line-height: 1.1; }
+    .vm-sidebar-head span { font-size: 0.72rem; opacity: 0.8; }
+
+    .vm-add-btns { padding: 16px; display: flex; flex-direction: column; gap: 10px;
+      border-bottom: 1px solid rgba(255,255,255,0.12); }
+    .vm-add-btn {
+      background: rgba(255,255,255,0.14); color: #fff; border: 1px solid rgba(255,255,255,0.2);
+      padding: 11px 14px; border-radius: 10px; font-size: 0.86rem; font-weight: 700; cursor: pointer;
+      text-align: left; transition: background 0.18s; display: flex; align-items: center; gap: 8px;
+    }
+    .vm-add-btn:hover { background: rgba(255,255,255,0.26); }
+
+    .vm-tabs { display: flex; padding: 12px 16px 0; gap: 6px; }
+    .vm-tab {
+      flex: 1; background: transparent; color: rgba(255,255,255,0.75); border: none;
+      padding: 9px 6px; border-radius: 9px 9px 0 0; font-size: 0.8rem; font-weight: 700;
+      cursor: pointer; transition: all 0.18s;
+    }
+    .vm-tab.active { background: rgba(255,255,255,0.16); color: #fff; }
+
+    .vm-list { flex: 1; overflow-y: auto; padding: 12px 12px 24px; }
+    .vm-list-item {
+      display: flex; gap: 10px; padding: 10px; border-radius: 12px; cursor: pointer;
+      transition: background 0.15s; margin-bottom: 6px; align-items: center;
+    }
+    .vm-list-item:hover { background: rgba(255,255,255,0.1); }
+    .vm-list-item.active { background: rgba(255,255,255,0.2); }
+    .vm-thumb {
+      width: 54px; height: 54px; flex-shrink: 0; border-radius: 9px; object-fit: cover;
+      background: rgba(255,255,255,0.15); display: flex; align-items: center; justify-content: center;
+      font-size: 1.1rem; color: rgba(255,255,255,0.6);
+    }
+    .vm-item-info { min-width: 0; flex: 1; }
+    .vm-item-title { font-size: 0.84rem; font-weight: 600; white-space: nowrap; overflow: hidden;
+      text-overflow: ellipsis; margin-bottom: 4px; }
+    .vm-badge { font-size: 0.62rem; font-weight: 800; padding: 2px 7px; border-radius: 20px;
+      text-transform: uppercase; letter-spacing: 0.04em; }
+    .vm-badge.reel { background: #ffd6e8; color: #b00050; }
+    .vm-badge.landscape { background: #d6e4ff; color: #1e40af; }
+    .vm-empty-list { padding: 20px; text-align: center; font-size: 0.82rem; opacity: 0.7; }
+
+    /* RIGHT PANEL */
+    .vm-main { flex: 1; overflow-y: auto; padding: 28px 32px; }
+    .vm-main-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 22px; }
+    .vm-main-head h2 { font-size: 1.4rem; font-weight: 800; }
+    .vm-placeholder { display: flex; flex-direction: column; align-items: center; justify-content: center;
+      height: 70vh; color: var(--muted); text-align: center; }
+    .vm-placeholder i { font-size: 3rem; margin-bottom: 16px; opacity: 0.4; }
+
+    .vm-card {
+      background: #fff; border: 1px solid var(--border); border-radius: var(--radius);
+      box-shadow: var(--shadow-sm); padding: 22px 24px; margin-bottom: 20px;
+    }
+    .vm-card-title {
+      font-size: 0.74rem; font-weight: 800; color: var(--primary); text-transform: uppercase;
+      letter-spacing: 0.08em; margin-bottom: 18px; display: flex; align-items: center; gap: 8px;
+    }
+
+    .vm-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .vm-field { display: flex; flex-direction: column; gap: 6px; }
+    .vm-field.full { grid-column: 1 / -1; }
+    .vm-field label { font-size: 0.74rem; font-weight: 800; color: var(--text); opacity: 0.7;
+      text-transform: uppercase; letter-spacing: 0.04em; }
+    .vm-field input, .vm-field select, .vm-field textarea {
+      padding: 11px 13px; border: 1.5px solid var(--border); border-radius: 11px; font-size: 0.9rem;
+      outline: none; width: 100%; color: var(--text); background: #fff; transition: border-color 0.2s;
+    }
+    .vm-field input:focus, .vm-field select:focus, .vm-field textarea:focus { border-color: var(--primary); }
+    .vm-field textarea { resize: vertical; min-height: 90px; font-family: ui-monospace, monospace; font-size: 0.82rem; }
+
+    .vm-preview-btn {
+      margin-top: 12px; background: var(--primary-light); color: var(--primary); border: 1.5px solid var(--primary);
+      padding: 9px 16px; border-radius: 10px; font-size: 0.84rem; font-weight: 700; cursor: pointer; transition: all 0.18s;
+    }
+    .vm-preview-btn:hover { background: var(--primary); color: #fff; }
+    .vm-preview-box { margin-top: 16px; border-radius: 12px; overflow: hidden; background: #000; display: none; }
+    .vm-preview-box.show { display: block; }
+    .vm-preview-box iframe, .vm-preview-box video { width: 100%; aspect-ratio: 16/9; border: none; display: block; }
+
+    /* SHOW ON */
+    .vm-showon-parent {
+      display: flex; align-items: center; gap: 12px; padding: 12px 14px; border: 1.5px solid var(--border);
+      border-radius: 12px; cursor: pointer; font-weight: 700; font-size: 0.9rem; transition: border-color 0.2s, background 0.2s;
+    }
+    .vm-showon-parent.active { border-color: var(--primary); background: var(--primary-light); }
+    .vm-showon-block { margin-bottom: 14px; }
+    .vm-showon-sub {
+      max-height: 0; overflow: hidden; opacity: 0;
+      transition: max-height 0.28s ease, opacity 0.2s ease, margin 0.2s ease, padding 0.2s ease;
+    }
+    .vm-showon-sub.open { max-height: 600px; opacity: 1; margin-top: 12px; padding: 4px 4px 4px 8px; overflow-y: auto; }
+
+    .vm-checkgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    .vm-check {
+      display: flex; align-items: center; gap: 9px; padding: 9px 11px; min-height: 38px;
+      border: 1px solid var(--border); border-radius: 10px; cursor: pointer; font-size: 0.86rem;
+      color: #333; transition: background 0.12s, border-color 0.12s;
+    }
+    .vm-check:hover { background: var(--primary-light); border-color: var(--primary); }
+    .vm-check .ic { width: 20px; text-align: center; flex-shrink: 0; }
+    .vm-check span { flex: 1; }
+    .vm-check small { color: var(--muted); font-size: 0.72rem; }
+    .vm-cb { accent-color: var(--primary); width: 17px; height: 17px; flex-shrink: 0; cursor: pointer; }
+
+    .vm-tx-search {
+      width: 100%; padding: 10px 13px; border: 1.5px solid var(--border); border-radius: 10px;
+      font-size: 0.86rem; outline: none; margin-bottom: 10px;
+    }
+    .vm-tx-search:focus { border-color: var(--primary); }
+    .vm-tx-list { max-height: 200px; overflow-y: auto; display: flex; flex-direction: column; gap: 6px;
+      border: 1px solid var(--border); border-radius: 10px; padding: 8px; }
+
+    /* FOOTER ACTIONS */
+    .vm-actions { display: flex; justify-content: flex-end; gap: 12px; padding-bottom: 40px; }
+    .vm-btn { padding: 12px 24px; border-radius: 11px; font-size: 0.9rem; font-weight: 700; cursor: pointer;
+      border: none; transition: all 0.18s; }
+    .vm-btn-save { background: var(--primary); color: #fff; }
+    .vm-btn-save:hover { background: var(--primary-dark); }
+    .vm-btn-cancel { background: #fff; color: var(--text); border: 1.5px solid var(--border); }
+    .vm-btn-cancel:hover { background: var(--bg); }
+    .vm-btn-delete { background: #fff; color: var(--red); border: 1.5px solid #fcc; margin-right: auto; }
+    .vm-btn-delete:hover { background: var(--red); color: #fff; border-color: var(--red); }
+
+    .vm-toast {
+      position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px);
+      background: var(--text); color: #fff; padding: 13px 24px; border-radius: 11px; font-size: 0.88rem;
+      font-weight: 600; box-shadow: var(--shadow-md); transition: transform 0.3s; z-index: 999;
+    }
+    .vm-toast.show { transform: translateX(-50%) translateY(0); }
+    .vm-toast.err { background: var(--red); }
+
+    @media (max-width: 860px) {
+      .vm-app.show { flex-direction: column; }
+      .vm-sidebar { width: 100%; height: auto; max-height: 42vh; }
+      .vm-main { padding: 18px; }
+      .vm-grid, .vm-checkgrid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- LOGIN -->
+  <div class="login-screen" id="loginScreen">
+    <div class="login-card">
+      <div class="login-logo">D</div>
+      <h1>Video Manager</h1>
+      <p>Enter the password to manage videos</p>
+      <input type="password" id="pwInput" placeholder="Password" autocomplete="current-password">
+      <button id="loginBtn">Unlock</button>
+      <div class="login-error" id="loginError"></div>
+    </div>
+  </div>
+
+  <!-- APP -->
+  <div class="vm-app" id="vmApp">
+
+    <!-- SIDEBAR -->
+    <aside class="vm-sidebar">
+      <div class="vm-sidebar-head">
+        <div class="logo">D</div>
+        <div>
+          <h1>Video Manager</h1>
+          <span>Doctar CMS</span>
+        </div>
+      </div>
+      <div class="vm-add-btns">
+        <button class="vm-add-btn" onclick="newVideo('reel')"><i class="fa-solid fa-plus"></i> Add Short Video (9:16)</button>
+        <button class="vm-add-btn" onclick="newVideo('landscape')"><i class="fa-solid fa-plus"></i> Add Long Video (16:9)</button>
+      </div>
+      <div class="vm-tabs">
+        <button class="vm-tab active" id="tab-reel" onclick="switchTab('reel')">Short</button>
+        <button class="vm-tab" id="tab-landscape" onclick="switchTab('landscape')">Long</button>
+      </div>
+      <div class="vm-list" id="vmList"><div class="vm-empty-list">Loading…</div></div>
+    </aside>
+
+    <!-- MAIN -->
+    <main class="vm-main" id="vmMain">
+      <div class="vm-placeholder" id="vmPlaceholder">
+        <i class="fa-solid fa-film"></i>
+        <p>Select a video to edit, or add a new one.</p>
+      </div>
+      <div id="vmForm" style="display:none;"></div>
+    </main>
+  </div>
+
+  <div class="vm-toast" id="vmToast"></div>
+
+  <script>
+    const PASSWORD = 'doctar2024';
+    const AUTH_KEY = 'doctarAdmin';
+
+    /* ── AUTH ─────────────────────────────────────────────── */
+    const loginScreen = document.getElementById('loginScreen');
+    const vmApp = document.getElementById('vmApp');
+    function unlock() {
+      loginScreen.style.display = 'none';
+      vmApp.classList.add('show');
+      init();
+    }
+    document.getElementById('loginBtn').onclick = () => {
+      const v = document.getElementById('pwInput').value;
+      if (v === PASSWORD) {
+        // Mirror admin.html session auth (also persist for convenience)
+        sessionStorage.setItem(AUTH_KEY, '1');
+        localStorage.setItem(AUTH_KEY, '1');
+        unlock();
+      } else {
+        document.getElementById('loginError').textContent = 'Incorrect password.';
+      }
+    };
+    document.getElementById('pwInput').addEventListener('keydown', e => { if (e.key === 'Enter') document.getElementById('loginBtn').click(); });
+    if (sessionStorage.getItem(AUTH_KEY) === '1' || localStorage.getItem(AUTH_KEY) === '1') unlock();
+
+    /* ── STATE ────────────────────────────────────────────── */
+    let VIDEOS = [], DOCTORS = [], CATEGORIES = [], TREATMENTS = [];
+    let currentTab = 'reel';
+    let currentId = null;       // _id of editing video, or null for new
+    let draftType = 'reel';     // type for a new video
+
+    const esc = s => String(s == null ? '' : s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    const slugify = s => (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+
+    function toast(msg, isErr) {
+      const t = document.getElementById('vmToast');
+      t.textContent = msg; t.className = 'vm-toast show' + (isErr ? ' err' : '');
+      setTimeout(() => { t.className = 'vm-toast'; }, 2600);
+    }
+
+    /* ── INIT / FETCH ─────────────────────────────────────── */
+    async function init() {
+      try {
+        const [vj, dj, cj, tj] = await Promise.all([
+          fetch('/api/videos').then(r => r.json()),
+          fetch('/api/doctors').then(r => r.json()),
+          fetch('/api/categories').then(r => r.json()),
+          fetch('/api/treatments').then(r => r.json()),
+        ]);
+        VIDEOS = vj.data || [];
+        DOCTORS = dj.data || [];
+        CATEGORIES = cj.data || [];
+        TREATMENTS = tj.data || [];
+      } catch (e) { toast('Failed to load data — is the server running?', true); }
+      renderList();
+    }
+
+    /* ── SIDEBAR LIST ─────────────────────────────────────── */
+    function switchTab(type) {
+      currentTab = type;
+      document.getElementById('tab-reel').classList.toggle('active', type === 'reel');
+      document.getElementById('tab-landscape').classList.toggle('active', type === 'landscape');
+      renderList();
+    }
+
+    function renderList() {
+      const list = document.getElementById('vmList');
+      const rows = VIDEOS.filter(v => v.type === currentTab);
+      if (!rows.length) {
+        list.innerHTML = `<div class="vm-empty-list">No ${currentTab === 'reel' ? 'short' : 'long'} videos yet.<br>Click “Add” above.</div>`;
+        return;
+      }
+      list.innerHTML = rows.map(v => `
+        <div class="vm-list-item ${v._id === currentId ? 'active' : ''}" onclick="editVideo('${v._id}')">
+          ${v.thumbnail_url
+            ? `<img class="vm-thumb" src="${esc(v.thumbnail_url)}" alt="" onerror="this.outerHTML='<div class=\\'vm-thumb\\'><i class=\\'fa-solid fa-film\\'></i></div>'">`
+            : `<div class="vm-thumb"><i class="fa-solid fa-film"></i></div>`}
+          <div class="vm-item-info">
+            <div class="vm-item-title">${esc(v.title) || '(untitled)'}</div>
+            <span class="vm-badge ${v.type}">${v.type === 'reel' ? 'Short 9:16' : 'Long 16:9'}</span>
+          </div>
+        </div>`).join('');
+    }
+
+    /* ── OPEN FORMS ───────────────────────────────────────── */
+    function newVideo(type) {
+      currentId = null; draftType = type;
+      switchTab(type);
+      renderForm({ type, platform: 'youtube', order: 0, showOn: ['all'] }, false);
+    }
+    function editVideo(id) {
+      const v = VIDEOS.find(x => x._id === id);
+      if (!v) return;
+      currentId = id;
+      renderList();
+      renderForm(v, true);
+    }
+    function cancelEdit() {
+      currentId = null;
+      renderList();
+      document.getElementById('vmForm').style.display = 'none';
+      document.getElementById('vmPlaceholder').style.display = 'flex';
+    }
+
+    /* ── SHOW-ON PICKER ───────────────────────────────────── */
+    function showOnPickerHTML(showOn) {
+      showOn = Array.isArray(showOn) ? showOn : [];
+      const homeChecked = showOn.includes('home');
+      const catVals = showOn.filter(s => s.startsWith('category-'));
+      const docVals = showOn.filter(s => s.startsWith('doctor-'));
+      const txVals  = showOn.filter(s => s.startsWith('treatment-'));
+
+      const catGrid = CATEGORIES.map(c => {
+        const val = 'category-' + (c.slug || slugify(c.name));
+        const ic = c.icon ? esc(c.icon) : '📁';
+        return `<label class="vm-check">
+          <input type="checkbox" class="vm-cb vm-cat-cb" value="${val}" ${catVals.includes(val)?'checked':''}>
+          <span class="ic">${ic}</span><span>${esc(c.name)}</span></label>`;
+      }).join('') || '<small style="color:var(--muted)">No categories</small>';
+
+      const docGrid = DOCTORS.map(d => {
+        const val = 'doctor-' + (d.slug || slugify(d.name));
+        return `<label class="vm-check">
+          <input type="checkbox" class="vm-cb vm-doc-cb" value="${val}" ${docVals.includes(val)?'checked':''}>
+          <span>${esc(d.name)}</span><small>${esc(d.specialty||'')}</small></label>`;
+      }).join('') || '<small style="color:var(--muted)">No doctors</small>';
+
+      const txList = TREATMENTS.map(t => {
+        const val = 'treatment-' + (t.slug || slugify(t.name));
+        const cat = (CATEGORIES.find(c => c.slug === t.categorySlug) || {}).name || '';
+        return `<label class="vm-check vm-tx-item" data-name="${esc((t.name||'').toLowerCase())}">
+          <input type="checkbox" class="vm-cb vm-tx-cb" value="${val}" ${txVals.includes(val)?'checked':''}>
+          <span>${esc(t.name)}</span><small>${esc(cat)}</small></label>`;
+      }).join('') || '<small style="color:var(--muted)">No treatments</small>';
+
+      return `
+        <div class="vm-card">
+          <div class="vm-card-title"><i class="fa-solid fa-location-dot"></i> Show On Pages
+            <small style="color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0;margin-left:4px;">(none checked = everywhere)</small>
+          </div>
+
+          <!-- Homepage -->
+          <div class="vm-showon-block">
+            <label class="vm-showon-parent ${homeChecked?'active':''}" id="par-home">
+              <input type="checkbox" class="vm-cb" id="vm-home" ${homeChecked?'checked':''} onchange="toggleParent('home', this)">
+              <span><i class="fa-solid fa-house" style="margin-right:6px;"></i> Homepage</span>
+            </label>
+          </div>
+
+          <!-- Category Pages -->
+          <div class="vm-showon-block">
+            <label class="vm-showon-parent ${catVals.length?'active':''}" id="par-category">
+              <input type="checkbox" class="vm-cb" id="vm-p-category" ${catVals.length?'checked':''} onchange="toggleParent('category', this)">
+              <span><i class="fa-solid fa-layer-group" style="margin-right:6px;"></i> Category Pages</span>
+            </label>
+            <div class="vm-showon-sub ${catVals.length?'open':''}" id="sub-category">
+              <div class="vm-checkgrid">${catGrid}</div>
+            </div>
+          </div>
+
+          <!-- Doctor Pages -->
+          <div class="vm-showon-block">
+            <label class="vm-showon-parent ${docVals.length?'active':''}" id="par-doctor">
+              <input type="checkbox" class="vm-cb" id="vm-p-doctor" ${docVals.length?'checked':''} onchange="toggleParent('doctor', this)">
+              <span><i class="fa-solid fa-user-doctor" style="margin-right:6px;"></i> Doctor Pages</span>
+            </label>
+            <div class="vm-showon-sub ${docVals.length?'open':''}" id="sub-doctor">
+              <div class="vm-checkgrid">${docGrid}</div>
+            </div>
+          </div>
+
+          <!-- Treatment Pages -->
+          <div class="vm-showon-block">
+            <label class="vm-showon-parent ${txVals.length?'active':''}" id="par-treatment">
+              <input type="checkbox" class="vm-cb" id="vm-p-treatment" ${txVals.length?'checked':''} onchange="toggleParent('treatment', this)">
+              <span><i class="fa-solid fa-stethoscope" style="margin-right:6px;"></i> Treatment Pages</span>
+            </label>
+            <div class="vm-showon-sub ${txVals.length?'open':''}" id="sub-treatment">
+              <input type="text" class="vm-tx-search" placeholder="Search treatments…" oninput="filterTx(this.value)">
+              <div class="vm-tx-list">${txList}</div>
+            </div>
+          </div>
+        </div>`;
+    }
+
+    window.toggleParent = function(kind, cb) {
+      const par = document.getElementById('par-' + kind);
+      if (par) par.classList.toggle('active', cb.checked);
+      if (kind === 'home') return;
+      const sub = document.getElementById('sub-' + kind);
+      if (sub) {
+        sub.classList.toggle('open', cb.checked);
+        if (!cb.checked) sub.querySelectorAll('.vm-cb').forEach(c => { c.checked = false; });
+      }
+    };
+
+    window.filterTx = function(q) {
+      q = q.trim().toLowerCase();
+      document.querySelectorAll('.vm-tx-item').forEach(el => {
+        el.style.display = !q || el.dataset.name.includes(q) ? 'flex' : 'none';
+      });
+    };
+
+    function readShowOn() {
+      const vals = [];
+      if (document.getElementById('vm-home') && document.getElementById('vm-home').checked) vals.push('home');
+      [['category','vm-cat-cb'],['doctor','vm-doc-cb'],['treatment','vm-tx-cb']].forEach(([kind, cls]) => {
+        const parent = document.getElementById('vm-p-' + kind);
+        if (parent && parent.checked) {
+          document.querySelectorAll('.' + cls + ':checked').forEach(cb => vals.push(cb.value));
+        }
+      });
+      return vals.length ? [...new Set(vals)] : ['all'];
+    }
+
+    /* ── RENDER FORM ──────────────────────────────────────── */
+    function renderForm(v, isEdit) {
+      document.getElementById('vmPlaceholder').style.display = 'none';
+      const form = document.getElementById('vmForm');
+      form.style.display = 'block';
+      const typeLabel = (v.type === 'landscape') ? 'Long Video (16:9)' : 'Short Video (9:16)';
+
+      form.innerHTML = `
+        <div class="vm-main-head">
+          <h2>${isEdit ? 'Edit' : 'New'} — ${typeLabel}</h2>
+        </div>
+
+        <!-- BASIC INFO -->
+        <div class="vm-card">
+          <div class="vm-card-title"><i class="fa-solid fa-circle-info"></i> Basic Info</div>
+          <div class="vm-grid">
+            <div class="vm-field full"><label>Title</label>
+              <input id="f-title" value="${esc(v.title)}" placeholder="Video title"></div>
+            <div class="vm-field"><label>Doctor Name</label>
+              <input id="f-doctor_name" value="${esc(v.doctor_name)}" placeholder="Dr. ..."></div>
+            <div class="vm-field"><label>Specialty</label>
+              <input id="f-specialty" value="${esc(v.specialty)}" placeholder="e.g. Orthopedics"></div>
+            <div class="vm-field"><label>Platform</label>
+              <select id="f-platform">
+                <option value="youtube" ${v.platform==='youtube'?'selected':''}>YouTube</option>
+                <option value="instagram" ${v.platform==='instagram'?'selected':''}>Instagram</option>
+              </select></div>
+            <div class="vm-field"><label>Type</label>
+              <select id="f-type">
+                <option value="reel" ${v.type==='reel'?'selected':''}>Short (Reel 9:16)</option>
+                <option value="landscape" ${v.type==='landscape'?'selected':''}>Long (16:9)</option>
+              </select></div>
+            <div class="vm-field"><label>Order</label>
+              <input id="f-order" type="number" value="${v.order != null ? v.order : 0}"></div>
+            <div class="vm-field"><label>Duration (e.g. 5:32)</label>
+              <input id="f-duration" value="${esc(v.duration)}" placeholder="optional"></div>
+            <div class="vm-field full"><label>Thumbnail URL</label>
+              <input id="f-thumbnail_url" value="${esc(v.thumbnail_url)}" placeholder="https://…"></div>
+            <div class="vm-field full"><label>Video URL (YouTube)</label>
+              <input id="f-video_url" value="${esc(v.video_url)}" placeholder="https://youtube.com/watch?v=…"></div>
+          </div>
+        </div>
+
+        <!-- EMBED CODE -->
+        <div class="vm-card">
+          <div class="vm-card-title"><i class="fa-solid fa-code"></i> Embed Code</div>
+          <div class="vm-field full">
+            <label>Paste embed code (Instagram / iframe)</label>
+            <textarea id="f-embed_code" placeholder="Paste <iframe> or Instagram embed code…">${esc(v.embed_code)}</textarea>
+          </div>
+          <button class="vm-preview-btn" onclick="previewVideo()"><i class="fa-solid fa-play"></i> Preview</button>
+          <div class="vm-preview-box" id="previewBox"></div>
+        </div>
+
+        <!-- SHOW ON -->
+        ${showOnPickerHTML(v.showOn)}
+
+        <!-- ACTIONS -->
+        <div class="vm-actions">
+          ${isEdit ? `<button class="vm-btn vm-btn-delete" onclick="deleteVideo()">Delete</button>` : ''}
+          <button class="vm-btn vm-btn-cancel" onclick="cancelEdit()">Cancel</button>
+          <button class="vm-btn vm-btn-save" onclick="saveVideo()">${isEdit ? 'Save Changes' : 'Create Video'}</button>
+        </div>`;
+
+      document.getElementById('vmMain').scrollTop = 0;
+    }
+
+    /* ── PREVIEW ──────────────────────────────────────────── */
+    function ytEmbed(url) {
+      let id = '';
+      try {
+        const u = new URL(url);
+        if (u.hostname.includes('youtu.be')) id = u.pathname.slice(1);
+        else id = u.searchParams.get('v') || u.pathname.split('/').pop();
+      } catch (e) { id = ''; }
+      return id ? `https://www.youtube-nocookie.com/embed/${id}?modestbranding=1&rel=0` : '';
+    }
+    window.previewVideo = function() {
+      const box = document.getElementById('previewBox');
+      const url = document.getElementById('f-video_url').value.trim();
+      const code = document.getElementById('f-embed_code').value.trim();
+      const embed = ytEmbed(url);
+      if (embed) {
+        box.innerHTML = `<iframe src="${embed}" allow="encrypted-media" allowfullscreen></iframe>`;
+      } else if (code) {
+        box.innerHTML = code;
+      } else {
+        toast('Add a Video URL or embed code first.', true);
+        return;
+      }
+      box.classList.add('show');
+    };
+
+    /* ── SAVE / DELETE ────────────────────────────────────── */
+    function collectPayload() {
+      return {
+        title: document.getElementById('f-title').value.trim(),
+        doctor_name: document.getElementById('f-doctor_name').value.trim(),
+        specialty: document.getElementById('f-specialty').value.trim(),
+        platform: document.getElementById('f-platform').value,
+        type: document.getElementById('f-type').value,
+        order: Number(document.getElementById('f-order').value) || 0,
+        duration: document.getElementById('f-duration').value.trim(),
+        thumbnail_url: document.getElementById('f-thumbnail_url').value.trim(),
+        video_url: document.getElementById('f-video_url').value.trim(),
+        embed_code: document.getElementById('f-embed_code').value.trim(),
+        showOn: readShowOn(),
+      };
+    }
+
+    window.saveVideo = async function() {
+      const payload = collectPayload();
+      if (!payload.title) { toast('Title is required.', true); return; }
+      if (!payload.doctor_name) { toast('Doctor name is required.', true); return; }
+      if (!payload.specialty) { toast('Specialty is required.', true); return; }
+      const url = currentId ? `/api/videos/${currentId}` : '/api/videos';
+      const method = currentId ? 'PUT' : 'POST';
+      try {
+        const j = await (await fetch(url, { method, headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })).json();
+        if (j.success || j.data) {
+          const saved = j.data || {};
+          toast(currentId ? 'Saved changes ✓' : 'Video created ✓');
+          // Refresh cache
+          const vj = await (await fetch('/api/videos')).json();
+          VIDEOS = vj.data || [];
+          currentId = saved._id || currentId;
+          currentTab = payload.type;
+          switchTab(currentTab);
+          if (currentId) editVideo(currentId); else cancelEdit();
+        } else {
+          toast(j.error || j.message || 'Save failed.', true);
+        }
+      } catch (e) { toast('Save failed — is the server running?', true); }
+    };
+
+    window.deleteVideo = async function() {
+      if (!currentId) return;
+      if (!confirm('Delete this video permanently?')) return;
+      try {
+        await fetch(`/api/videos/${currentId}`, { method: 'DELETE' });
+        toast('Video deleted ✓');
+        VIDEOS = VIDEOS.filter(v => v._id !== currentId);
+        currentId = null;
+        renderList();
+        cancelEdit();
+      } catch (e) { toast('Delete failed.', true); }
+    };
+
+    // Expose handlers used by inline onclick
+    window.switchTab = switchTab;
+    window.newVideo = newVideo;
+    window.editVideo = editVideo;
+    window.cancelEdit = cancelEdit;
+  </script>
+</body>
+</html>

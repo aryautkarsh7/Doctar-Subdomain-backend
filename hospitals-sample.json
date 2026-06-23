@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Max Super Speciality Hospital",
+    "slug": "max-super-speciality-delhi",
+    "image": "",
+    "rating": 4.9,
+    "reviews": 1420,
+    "address": "1, 2, Press Enclave Road, Saket, New Delhi",
+    "distance": "2.1 km away",
+    "city": "Delhi NCR",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Max Super Speciality Hospital in Saket is a premium surgical facility with next-gen smart OTs, advanced ICU units, and a dedicated international patient desk.",
+    "services": [
+      "Cashless insurance",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "800+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Orthopedics",
+      "Urology",
+      "General Surgery",
+      "Cardiology"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Cab assistance"
+    ],
+    "map": {
+      "lat": 28.5244,
+      "lng": 77.2066
+    }
+  },
+  {
+    "name": "Fortis Memorial Research Institute",
+    "slug": "fortis-memorial-gurgaon",
+    "image": "",
+    "rating": 4.8,
+    "reviews": 1150,
+    "address": "Sector 44, Opposite HUDA City Centre, Gurugram",
+    "distance": "3.4 km away",
+    "city": "Delhi NCR",
+    "type": "Advanced Surgery Centre",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Fortis Memorial Research Institute is a world-class hospital offering advanced surgical care with state-of-the-art OTs and ICU facilities.",
+    "services": [
+      "Free consultation",
+      "ICU support",
+      "Day-care surgery"
+    ],
+    "metrics": [
+      "310+ Beds",
+      "JCI Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Orthopedics",
+      "Oncology"
+    ],
+    "amenities": [
+      "ICU backup",
+      "Cashless billing",
+      "Emergency care",
+      "Patient lounge"
+    ],
+    "map": {
+      "lat": 28.4595,
+      "lng": 77.0266
+    }
+  },
+  {
+    "name": "Apollo Hospitals Chennai",
+    "slug": "apollo-hospitals-chennai",
+    "image": "",
+    "rating": 4.9,
+    "reviews": 2100,
+    "address": "21, Greams Lane, Off Greams Road, Chennai",
+    "distance": "1.8 km away",
+    "city": "Chennai",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Apollo Hospitals Chennai is one of India's most trusted hospitals offering comprehensive surgical care with robotic surgery capabilities.",
+    "services": [
+      "Cashless insurance",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "700+ Beds",
+      "JCI Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Orthopedics",
+      "Neurology",
+      "Oncology"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Cab assistance"
+    ],
+    "map": {
+      "lat": 13.0569,
+      "lng": 80.2425
+    }
+  },
+  {
+    "name": "KIMS Hospital Hyderabad",
+    "slug": "kims-hospital-hyderabad",
+    "image": "",
+    "rating": 4.7,
+    "reviews": 980,
+    "address": "1-8-31/1, Minister Road, Secunderabad, Hyderabad",
+    "distance": "2.5 km away",
+    "city": "Hyderabad",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "KIMS Hospital is a leading multispeciality hospital in Hyderabad known for advanced surgical procedures and excellent patient care.",
+    "services": [
+      "Cashless insurance",
+      "ICU support",
+      "Day-care surgery"
+    ],
+    "metrics": [
+      "1000+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Orthopedics",
+      "Cardiology",
+      "Neurology",
+      "Urology"
+    ],
+    "amenities": [
+      "ICU backup",
+      "Cashless billing",
+      "Emergency care",
+      "Pharmacy"
+    ],
+    "map": {
+      "lat": 17.4399,
+      "lng": 78.4983
+    }
+  },
+  {
+    "name": "Lilavati Hospital Mumbai",
+    "slug": "lilavati-hospital-mumbai",
+    "image": "",
+    "rating": 4.8,
+    "reviews": 1340,
+    "address": "A-791, Bandra Reclamation, Bandra West, Mumbai",
+    "distance": "1.2 km away",
+    "city": "Mumbai",
+    "type": "Advanced Surgery Centre",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Lilavati Hospital is one of Mumbai's premier hospitals offering world-class surgical care with cutting-edge technology and experienced specialists.",
+    "services": [
+      "Free consultation",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "323+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Orthopedics",
+      "Neurology",
+      "Gastroenterology"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Cab assistance"
+    ],
+    "map": {
+      "lat": 19.0596,
+      "lng": 72.8295
+    }
+  },
+  {
+    "name": "Manipal Hospital Bangalore",
+    "slug": "manipal-hospital-bangalore-old-airport",
+    "image": "",
+    "rating": 4.9,
+    "reviews": 1680,
+    "address": "98, HAL Old Airport Road, Bangalore",
+    "distance": "2.0 km away",
+    "city": "Bangalore",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Manipal Hospital on HAL Road is a leading healthcare destination in South India offering comprehensive robotic-assisted surgeries.",
+    "services": [
+      "Cashless insurance",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "600+ Beds",
+      "JCI Accredited"
+    ],
+    "specialties": [
+      "Orthopedics",
+      "Urology",
+      "Laparoscopy",
+      "General Surgery"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Cab assistance"
+    ],
+    "map": {
+      "lat": 12.9592,
+      "lng": 77.6474
+    }
+  },
+  {
+    "name": "Ruby Hall Clinic Pune",
+    "slug": "ruby-hall-clinic-pune",
+    "image": "",
+    "rating": 4.7,
+    "reviews": 890,
+    "address": "40, Sassoon Road, Pune",
+    "distance": "1.5 km away",
+    "city": "Pune",
+    "type": "Advanced Surgery Centre",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Ruby Hall Clinic is Pune's most trusted hospital offering advanced surgical procedures with experienced specialists and modern facilities.",
+    "services": [
+      "Free consultation",
+      "ICU support",
+      "Day-care surgery"
+    ],
+    "metrics": [
+      "450+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Orthopedics",
+      "Neurology",
+      "Oncology"
+    ],
+    "amenities": [
+      "ICU backup",
+      "Cashless billing",
+      "Emergency care",
+      "Patient lounge"
+    ],
+    "map": {
+      "lat": 18.5314,
+      "lng": 73.8446
+    }
+  },
+  {
+    "name": "PGIMER Chandigarh",
+    "slug": "pgimer-chandigarh",
+    "image": "",
+    "rating": 4.8,
+    "reviews": 2200,
+    "address": "Sector 12, Chandigarh",
+    "distance": "1.0 km away",
+    "city": "Chandigarh",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "PGIMER is one of India's premier medical institutions offering world-class surgical care with cutting-edge research facilities.",
+    "services": [
+      "Cashless insurance",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "2000+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Neurology",
+      "Orthopedics",
+      "Urology"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Emergency care"
+    ],
+    "map": {
+      "lat": 30.7641,
+      "lng": 76.7763
+    }
+  },
+  {
+    "name": "Sterling Hospital Ahmedabad",
+    "slug": "sterling-hospital-ahmedabad",
+    "image": "",
+    "rating": 4.6,
+    "reviews": 760,
+    "address": "Gurukul Road, Memnagar, Ahmedabad",
+    "distance": "2.8 km away",
+    "city": "Ahmedabad",
+    "type": "Partner Surgical Clinic",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Sterling Hospital is a leading multispeciality hospital in Ahmedabad offering comprehensive surgical care with modern facilities.",
+    "services": [
+      "Cashless insurance",
+      "ICU support",
+      "Day-care surgery"
+    ],
+    "metrics": [
+      "300+ Beds",
+      "NABH Accredited"
+    ],
+    "specialties": [
+      "Orthopedics",
+      "Cardiology",
+      "Urology",
+      "General Surgery"
+    ],
+    "amenities": [
+      "ICU backup",
+      "Cashless billing",
+      "Emergency care",
+      "Pharmacy"
+    ],
+    "map": {
+      "lat": 23.0469,
+      "lng": 72.5417
+    }
+  },
+  {
+    "name": "Medanta The Medicity Gurgaon",
+    "slug": "medanta-medicity-gurgaon",
+    "image": "",
+    "rating": 4.9,
+    "reviews": 1890,
+    "address": "CH Baktawar Singh Road, Sector 38, Gurugram",
+    "distance": "4.2 km away",
+    "city": "Delhi NCR",
+    "type": "Multispeciality Surgical Hospital",
+    "phone": "+91-8877772277",
+    "hours": "Open 24 hours",
+    "overview": "Medanta The Medicity is one of India's largest multispeciality hospitals with world-class surgical facilities and experienced specialists.",
+    "services": [
+      "Cashless insurance",
+      "Modular OT",
+      "24/7 support"
+    ],
+    "metrics": [
+      "1600+ Beds",
+      "JCI Accredited"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Orthopedics",
+      "Neurology",
+      "Oncology",
+      "Urology"
+    ],
+    "amenities": [
+      "Insurance desk",
+      "Pharmacy",
+      "Diagnostics",
+      "Cab assistance",
+      "International desk"
+    ],
+    "map": {
+      "lat": 28.4486,
+      "lng": 77.0426
+    }
+  }
+]

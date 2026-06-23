@@ -1,0 +1,364 @@
+[
+  {
+    "slug": "icon-super-speciality-hospital-and-critical-care-centre-kidney-brain-heart-cancer-and-women-s-care-hospital-akola-akola",
+    "name": "Icon Super Speciality Hospital & Critical Care Centre - Kidney, Brain, Heart, Cancer and Women`s Care Hospital, Akola",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Akola, Icon Super Speciality Hospital & Critical Care Centre - Kidney, Brain, Heart, Cancer and Women`s Care Hospital, Akola brings together specialists for Brain Surgery In Akola, Cardiac Care, Kidney Care, and Neurosciences. Hospital capacity markers such as Google rating 3.9, 10+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Akola.",
+    "email": "",
+    "phone": "072424 11263",
+    "alternatePhone": "",
+    "website": "https://mymbg.shop/iconsuperspeciality/opd-details",
+    "address": "Kedia Plot Mothi, Umri Main Road, Ranpise Nagar, Akola, Maharashtra 444005",
+    "city": "Akola",
+    "state": "Maharashtra",
+    "pincode": "444005",
+    "locality": "Ranpise Nagar",
+    "landmark": "Ranpise Nagar",
+    "emergencyContact": "072424 11263",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Akola",
+      "Cardiac Care",
+      "Kidney Care",
+      "Neurosciences",
+      "Women and Child Care",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.9",
+      "10+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtZ6CHj2p1Cy0u3MrjLymuRY-CKVy1By3n2HHFrXClOTFECoZRlDhdw8NdgdhV7hNBcYyh6x0NxULIuJqg_ns66yfCE5FN67TOYilz0EXEiqv6fEhAQv09Bnm_wkBtRCmx29g=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEtZ6CHj2p1Cy0u3MrjLymuRY-CKVy1By3n2HHFrXClOTFECoZRlDhdw8NdgdhV7hNBcYyh6x0NxULIuJqg_ns66yfCE5FN67TOYilz0EXEiqv6fEhAQv09Bnm_wkBtRCmx29g=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHhaoTwgBcgl3Yzpn0-WtnmmnDq5QVoaZL58ICvZyrjx6SucN9B7bzpWlJlTx3KNcplRsnk6_e_MFUrXzsWgcHvaxbNLcB3QNT-d2EKUyXrQicDOx0ykdnKSjbILT9VNF_QxS_qMQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH4cGUggsm0-6gYYklDGx16j3DqHAUbwWcU7Fh5i-1XMSyiicCEpMv3uCPBEskcvICXlY8XG2ChCmOlm80SfMb--wP34TPh1jNj62J2FtiwJ4rCVT6e5x9s8JT34rirnITzU9ERbg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7134196,
+      "lng": 77.011998,
+      "label": "Icon Super Speciality Hospital & Critical Care Centre - Kidney, Brain, Heart, Cancer and Women`s Care Hospital, Akola",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.9,
+    "reviews": 10,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "navkiran-neuro-hospital-akola",
+    "name": "Navkiran Neuro Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Akola, Navkiran Neuro Hospital brings together specialists for Brain Surgery In Akola and Neurosciences. Hospital capacity markers such as Google rating 4.8 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Akola.",
+    "email": "",
+    "phone": "094059 44801",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Ramachandra Martand Gupte Marg, State Bank Lane, Jatharpeth, Akola, Maharashtra 444005",
+    "city": "Akola",
+    "state": "Maharashtra",
+    "pincode": "444005",
+    "locality": "Jatharpeth",
+    "landmark": "Jatharpeth",
+    "emergencyContact": "094059 44801",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Akola",
+      "Neurosciences"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.8",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbaonJHSVJsIcTtsxmssHu7m6cQnGYY6ZZ6eA7_7mChu8Ylao_92BzY_g3zITXJlWxsOjrRnI_tMDCKZSaHioBPFnnxh0ef9qJpfNav5P97QsvuGMgWt0usWMeROQHTovHIBaDRA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFbaonJHSVJsIcTtsxmssHu7m6cQnGYY6ZZ6eA7_7mChu8Ylao_92BzY_g3zITXJlWxsOjrRnI_tMDCKZSaHioBPFnnxh0ef9qJpfNav5P97QsvuGMgWt0usWMeROQHTovHIBaDRA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7163774,
+      "lng": 77.0180846,
+      "label": "Navkiran Neuro Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "noble-hospital-akola",
+    "name": "Noble Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Noble Hospital is a prominent hospital in Akola, known for structured tertiary care across Brain Surgery In Akola. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Akola.",
+    "email": "",
+    "phone": "070205 14239",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Noble Hospital, near Bus Station, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "city": "Akola",
+    "state": "Maharashtra",
+    "pincode": "444001",
+    "locality": "New Radhakisan Plots",
+    "landmark": "near Bus Station, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "emergencyContact": "070205 14239",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Brain Surgery In Akola"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6_Kf-ney3CPBnCqTewSCpASpINLaGg20pcLLn1_K5aZjAuQeLG6-H4mL3EyhMq1r1QqF_A5366KeHv39eS9MqsDqT5B9Yapv_BVvjVhDndR9vGSvt4D7qwuwvEjG00IHuEvK-=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH6_Kf-ney3CPBnCqTewSCpASpINLaGg20pcLLn1_K5aZjAuQeLG6-H4mL3EyhMq1r1QqF_A5366KeHv39eS9MqsDqT5B9Yapv_BVvjVhDndR9vGSvt4D7qwuwvEjG00IHuEvK-=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 20.7062802,
+      "lng": 77.0053156,
+      "label": "Noble Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]

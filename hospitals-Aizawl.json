@@ -1,0 +1,2484 @@
+[
+  {
+    "slug": "adventist-hospital-aizawl",
+    "name": "Adventist Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Adventist Hospital is a prominent hospital in Aizawl, known for structured tertiary care across Kidney Transplant Surgery In Aizawl. Hospital capacity markers such as Google rating 4.4 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Aizawl.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://en.wikipedia.org/wiki/Aizawl_Adventist_Hospital",
+    "address": "7th Day Tlang, Aizawl, Mizoram 796009",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796009",
+    "locality": "7th Day Tlang",
+    "landmark": "Mizoram 796009",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHc3Nzqr5eBfKwtwbRjMbDhTMMaVlPm2rvqzOAijSOu18TG06pFKYBxOkqpeiMpufM55xDPjPBlovwJixkJi80u83YcfMiiOXtmJmV0OjALTbMHJf4TGZDPYpaulg4Td-yppsWf=w1200-h900-p-k-no",
+    "logo": "https://en.wikipedia.org/static/images/icons/enwiki-25.svg",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHc3Nzqr5eBfKwtwbRjMbDhTMMaVlPm2rvqzOAijSOu18TG06pFKYBxOkqpeiMpufM55xDPjPBlovwJixkJi80u83YcfMiiOXtmJmV0OjALTbMHJf4TGZDPYpaulg4Td-yppsWf=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7365458,
+      "lng": 92.7093774,
+      "label": "Adventist Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "agape-multispeciality-hospital-aizawl",
+    "name": "Agape Multispeciality Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted hospital in Aizawl, Agape Multispeciality Hospital delivers integrated care across Laparoscopic Surgery In Aizawl and Speciality Care. With public-facing highlights like Google rating 3.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "097747 21451",
+    "alternatePhone": "",
+    "website": "",
+    "address": "B-20, Chanmari, Aizawl, Mizoram 796007",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796007",
+    "locality": "Chanmari",
+    "landmark": "Aizawl",
+    "emergencyContact": "097747 21451",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Aizawl",
+      "Speciality Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGmVL_GMHZjrVz4FOjnlSUiaRe-ymVBEYapPturBS7J-gk9dLn_3HYY7uBPpD2DRgv8S8o5rcPP7xrlrysLIx9q0hMsddfOBNpXIlTQTYvvPPjHVizi5Y_CtVAeA6gY1SrGpxqwQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHGmVL_GMHZjrVz4FOjnlSUiaRe-ymVBEYapPturBS7J-gk9dLn_3HYY7uBPpD2DRgv8S8o5rcPP7xrlrysLIx9q0hMsddfOBNpXIlTQTYvvPPjHVizi5Y_CtVAeA6gY1SrGpxqwQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7422341,
+      "lng": 92.7175491,
+      "label": "Agape Multispeciality Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "aizawl-hospital-and-research-centre-arhc-peter-s-street-khatla-aizawl",
+    "name": "Aizawl Hospital & Research Centre (ARHC), Peter'S Street Khatla",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Aizawl, Aizawl Hospital & Research Centre (ARHC), Peter'S Street Khatla brings together specialists for Gynecologist Surgery In Aizawl. Operational strengths including Google rating 3.7 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "0389 233 6537",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Peter St, Khatla, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "Khatla",
+    "landmark": "Aizawl",
+    "emergencyContact": "0389 233 6537",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDOcj4Sp2Nq39knu4A7gWjx-Gn50ai6ThG6kcK6hFY3Cq8ungSDaw5QDRCyOc1nx39q62Q3c3DVsouGAwtRKeQ0r5iPnYgqcf3aVbmSiIMliaGG6Qolb4mi_2S8rjGj26ni179bA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFDOcj4Sp2Nq39knu4A7gWjx-Gn50ai6ThG6kcK6hFY3Cq8ungSDaw5QDRCyOc1nx39q62Q3c3DVsouGAwtRKeQ0r5iPnYgqcf3aVbmSiIMliaGG6Qolb4mi_2S8rjGj26ni179bA=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG8wNlc03vAIOBYpoOeah9qC7wf2bcOu2tnXjaDaZMeNSn8zbSafRmbBmAHUbwaq6q7xt5u1TiZuV56NC6ClJ7wWs5BWk75uZ0s8sLHk6gpUsfcMlQIVhvaxzhyqcKhrbitTZEmmikEO2k=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7188251,
+      "lng": 92.7176091,
+      "label": "Aizawl Hospital & Research Centre (ARHC), Peter'S Street Khatla",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "alpha-dental-care-aizawl-aizawl",
+    "name": "Alpha Dental Care,Aizawl",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Aizawl, Alpha Dental Care,Aizawl offers coordinated hospital care with major focus on Oral Surgery In Aizawl. The facility stands out for Google rating 4.0, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Aizawl.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Hospital Road, Dawrpui, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "Dawrpui",
+    "landmark": "Aizawl",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oral Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuyqg16KdyWwkdY7aGWeZErna6On2b1vSauCcymuBDFv9aeNic5x31nHGqTRWGJv9SHlyiBy7ZsQ7ueG5lKKNzhIMvSmoP4KL3Gj6oB52-nMlcLYXs_37-IVDmQY-zdzRC5oJoaw=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEuyqg16KdyWwkdY7aGWeZErna6On2b1vSauCcymuBDFv9aeNic5x31nHGqTRWGJv9SHlyiBy7ZsQ7ueG5lKKNzhIMvSmoP4KL3Gj6oB52-nMlcLYXs_37-IVDmQY-zdzRC5oJoaw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7322753,
+      "lng": 92.7169966,
+      "label": "Alpha Dental Care,Aizawl",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "alpha-hospital-aizawl",
+    "name": "Alpha Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Aizawl, Alpha Hospital delivers integrated care across Gynecologist Surgery In Aizawl. The facility stands out for Google rating 4.2, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "093661 80843",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Kulikawn Rd, Kulikawn, Aizawl, Mizoram 796005",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796005",
+    "locality": "Kulikawn",
+    "landmark": "Aizawl",
+    "emergencyContact": "093661 80843",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXZLf3pr1N97jU2VgrQA5HZN4cLkSYiaz5_O3_nFXM-E5s1jpRU6EGflzf_12P4HKBw0FzA1Fqtr43Njs5aIbKqfyVMFqRzNI2klDVd8zkOf4WkgRHKIeoCNUO4ldGWDeNOLHnDKKn4n3U=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFXZLf3pr1N97jU2VgrQA5HZN4cLkSYiaz5_O3_nFXM-E5s1jpRU6EGflzf_12P4HKBw0FzA1Fqtr43Njs5aIbKqfyVMFqRzNI2klDVd8zkOf4WkgRHKIeoCNUO4ldGWDeNOLHnDKKn4n3U=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7091681,
+      "lng": 92.719537,
+      "label": "Alpha Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "bn-hospital-and-research-centre-aizawl",
+    "name": "BN Hospital & Research Centre",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "BN Hospital & Research Centre has built a strong reputation in Aizawl for multidisciplinary treatment pathways covering Gynecologist Surgery In Aizawl. With public-facing highlights like Google rating 4.3, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PP69+CQ8, Kulikawn Rd, Kulikawn, Aizawl, Mizoram 796005",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796005",
+    "locality": "Kulikawn",
+    "landmark": "Kulikawn",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Gynecologist Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.3"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEU16vDvGcl5vVOfKwFuXMvkHnvh5OXl86_ODGBVQi-IVK6AQG52CFIXkvVSba_JJWoZlpIUVR2KSwVXmknRKUEisMRloZzj1BRy4M8H0pTYDxB_riKLqF-ERFmDxVY-Y5nY-FT=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEU16vDvGcl5vVOfKwFuXMvkHnvh5OXl86_ODGBVQi-IVK6AQG52CFIXkvVSba_JJWoZlpIUVR2KSwVXmknRKUEisMRloZzj1BRy4M8H0pTYDxB_riKLqF-ERFmDxVY-Y5nY-FT=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.711039,
+      "lng": 92.719462,
+      "label": "BN Hospital & Research Centre",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.3,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-hospital-mission-veng-aizawl",
+    "name": "City Hospital, Mission Veng",
+    "type": "Specialized Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted specialized hospital in Aizawl, City Hospital, Mission Veng delivers integrated care across Laparoscopic Surgery In Aizawl. The facility stands out for Google rating 3.8, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "0389 232 5777",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Rev Chhuahkhama Rd, Mission Veng, Model Veng, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "Model Veng",
+    "landmark": "Model Veng",
+    "emergencyContact": "0389 232 5777",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ6DMJm9LbLZDUrST4-_zivw3yclL-JNnIFgUP0vB0oNdOBl2LEmX27lPb0ua7-SUjHEsUVGdhSGr_rsi1R24n_c2f6j5CD-4ay0NXkWnnCVUvFbGtzDwkQatXN4RnSqn04dMrwQ=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHQ6DMJm9LbLZDUrST4-_zivw3yclL-JNnIFgUP0vB0oNdOBl2LEmX27lPb0ua7-SUjHEsUVGdhSGr_rsi1R24n_c2f6j5CD-4ay0NXkWnnCVUvFbGtzDwkQatXN4RnSqn04dMrwQ=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7165752,
+      "lng": 92.7164595,
+      "label": "City Hospital, Mission Veng",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "city-polyclinic-aizawl",
+    "name": "CITY POLYCLINIC",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Aizawl, CITY POLYCLINIC brings together specialists for Laparoscopic Surgery In Aizawl. With public-facing highlights like Google rating 3.6, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Aizawl.",
+    "email": "",
+    "phone": "070851 48389",
+    "alternatePhone": "",
+    "website": "",
+    "address": "HAUVA BUILDING, B/139, Bara Bazar, Dawrpui, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "Dawrpui",
+    "landmark": "Bara Bazar",
+    "emergencyContact": "070851 48389",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQVfVuYB3lwGP-BIQo2A6hBdF6VNKktCX8rx7kzt259lcBmS4t4ldx-Dng6gO2LmNfq0et-dwxlzNWMbNAskbg0RLjYvqIDVrRdxLSdUVM_WvC2JhaT3Og2Ub_DwWs0cnEfHL=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQVfVuYB3lwGP-BIQo2A6hBdF6VNKktCX8rx7kzt259lcBmS4t4ldx-Dng6gO2LmNfq0et-dwxlzNWMbNAskbg0RLjYvqIDVrRdxLSdUVM_WvC2JhaT3Og2Ub_DwWs0cnEfHL=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQVfVuYB3lwGP-BIQo2A6hBdF6=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGkQVfVuYB3lwGP-BIQo2A6hBdF6VNKktCX8rx7kzt259lcBmS4t4ldx-Dng6gO2LmNfq0et-dwxlzNWMbNAskbg0=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7316748,
+      "lng": 92.7171137,
+      "label": "CITY POLYCLINIC",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "civil-hospital-aizawl-aizawl",
+    "name": "Civil Hospital, Aizawl",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Civil Hospital, Aizawl has built a strong reputation in Aizawl for multidisciplinary treatment pathways covering Cancer Surgery In Aizawl. Hospital capacity markers such as Google rating 3.7 and 14+ public reviews support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Aizawl.",
+    "email": "",
+    "phone": "0389 232 2318",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bazar Bungkawn, Bara Bazar, Dawrpui, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "Dawrpui",
+    "landmark": "Dawrpui",
+    "emergencyContact": "0389 232 2318",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.7",
+      "14+ public reviews"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-jXN3JaMhNog_9u4FJkq-dIbXciJ_8lIoevM11rrWQQjjXT5QJJkjBUM8AgGAoNNQX63D1kuVU0JCInWQVf8DtYG-HUwer4vrKlCwYDbhDcMY_4AREXg-5EBrXvnQjsY1hzC1Rg=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE-jXN3JaMhNog_9u4FJkq-dIbXciJ_8lIoevM11rrWQQjjXT5QJJkjBUM8AgGAoNNQX63D1kuVU0JCInWQVf8DtYG-HUwer4vrKlCwYDbhDcMY_4AREXg-5EBrXvnQjsY1hzC1Rg=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGnPbR5AHCypPeBJQyZBQ1zqklGjwbkPtyCOsfXPuq9bIY1zNE2Dxk30bb6D7_QcIAQ9pkS0hfatdnMqTcJFM0dBwsziKFvSRdJdaV1zH_CLtjNpfBYkMsrTHxUMKPoX-mccAWXgQ=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEE0sKoP2PFf_ANeciBnPXLE8KUpqDRH0YLJM6Q941GMHLB3lRui9PofvV-xwSNkVgMVlgP2rKQEvtg4eXJ2Tl1LhdX66XSkWFh5CmHvjCxzTS0KPS3XGjOsh0Gawu5WE742F4u7w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7323402,
+      "lng": 92.7165256,
+      "label": "Civil Hospital, Aizawl",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.7,
+    "reviews": 14,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "ebenezer-medical-center-aizawl",
+    "name": "Ebenezer Medical Center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Ebenezer Medical Center has built a strong reputation in Aizawl for multidisciplinary treatment pathways covering Cancer Surgery In Aizawl. Hospital capacity markers such as Google rating 4.2, 13+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. This profile is suited for people searching online for hospital facilities, department strengths, and contact access in Aizawl.",
+    "email": "",
+    "phone": "081189 00590",
+    "alternatePhone": "",
+    "website": "http://www.ebenezerhospital.com/",
+    "address": "Chawnpui Veng, Aizawl, Mizoram 796009",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796009",
+    "locality": "Chawnpui Veng",
+    "landmark": "Mizoram 796009",
+    "emergencyContact": "081189 00590",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "13+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP2KzDX-NC7H4xAOygB6CvI89GmpLqLX_H51k0Z4hvnhGzNsfV88TD8tk6hajNxF7HfyORe7HuQCscYtP0Q4nb0NSMJwD0p1zWBzSxH7tIpjhGZZgWmWYRqJxjNl6OsOZNQ0UU=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHP2KzDX-NC7H4xAOygB6CvI89GmpLqLX_H51k0Z4hvnhGzNsfV88TD8tk6hajNxF7HfyORe7HuQCscYtP0Q4nb0NSMJwD0p1zWBzSxH7tIpjhGZZgWmWYRqJxjNl6OsOZNQ0UU=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAF3amWCKBhzAe8jC9zwm5tjmrmp5RAmgPbcL_W9AsaQ7Nu6kg1J6nikIBN1IQBvT4vFblWvbKStbMIT0T0GyMy5tb5QFOQ7Ue5XQ34ZfM28LcGfme7dOgycCkHJEycMK_bflPiy=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEEOrNfjCO2cwrxbraVBmoypiMYvNzxUkHjrck2-ex58eUnmbgL8IHS7TwBVczfviEvOLy5heSvW1iev6YLejnaQyXzIMhTToyNPWuil84glV4DdywHuF9URo3IU8mDFS3leuT_hBdeCklR=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7312166,
+      "lng": 92.707811,
+      "label": "Ebenezer Medical Center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 13,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "greenwood-hospital-pvt-ltd-aizawl",
+    "name": "Greenwood Hospital Pvt Ltd",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Aizawl, Greenwood Hospital Pvt Ltd offers coordinated hospital care with major focus on Neurosurgeon In Aizawl. Hospital capacity markers such as Google rating 4.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Aizawl.",
+    "email": "",
+    "phone": "0389 234 1397",
+    "alternatePhone": "",
+    "website": "",
+    "address": "QP4J+MF3, Bawngkawn, N-1-3, Bawngkawn, Aizawl, Mizoram 796014",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796014",
+    "locality": "Bawngkawn",
+    "landmark": "N-1-3",
+    "emergencyContact": "0389 234 1397",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4EFlOta0CEoz4DnqbzIcHSc7VVDulSjQtiKtZZ_1AaK4jIfGbTNPHKeWtbQF9wYF5JZOukql2vt2KV8ADeKtZotGCxZPUXyzWAI_LDDLb-mMLVsYTzMr1yO1x98jkcKoAIC34-w=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG4EFlOta0CEoz4DnqbzIcHSc7VVDulSjQtiKtZZ_1AaK4jIfGbTNPHKeWtbQF9wYF5JZOukql2vt2KV8ADeKtZotGCxZPUXyzWAI_LDDLb-mMLVsYTzMr1yO1x98jkcKoAIC34-w=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7554666,
+      "lng": 92.7310241,
+      "label": "Greenwood Hospital Pvt Ltd",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "kulikawn-hospital-aizawl",
+    "name": "Kulikawn Hospital",
+    "type": "Government Hospital",
+    "ownershipType": "Government",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Aizawl often choose Kulikawn Hospital for its strength in Laparoscopic Surgery In Aizawl. With public-facing highlights like Google rating 4.2 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "http://kulikawnhospital.com/",
+    "address": "Edenthar, Aizawl, Mizoram 796007",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796007",
+    "locality": "Edenthar",
+    "landmark": "Mizoram 796007",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Laparoscopic Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxObgkYNg5aJ_W3SRpStXfzGKONl0_H2h_kNzc8UoXqQuCxuXztEKDvQdxLCWwH4f9HapXIm5O8cmmlbMg20434T9-bsFfZQrmgJgkOgMYbDH10JnQDLxcvAIan2m4TRk4ShJ4=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGxObgkYNg5aJ_W3SRpStXfzGKONl0_H2h_kNzc8UoXqQuCxuXztEKDvQdxLCWwH4f9HapXIm5O8cmmlbMg20434T9-bsFfZQrmgJgkOgMYbDH10JnQDLxcvAIan2m4TRk4ShJ4=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7551412,
+      "lng": 92.7189393,
+      "label": "Kulikawn Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "lrm-hospital-aizawl-in-mizoram-aizawl",
+    "name": "LRM Hospital Aizawl in Mizoram",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Aizawl, LRM Hospital Aizawl in Mizoram offers coordinated hospital care with major focus on Cancer Surgery In Aizawl. Hospital capacity markers such as Google rating 3.8, 6+ public reviews, and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "084130 28542",
+    "alternatePhone": "",
+    "website": "https://lrmhospital.in/",
+    "address": "PPVF+XMG, Chanmari - Ramhlun Rd, Ramhlun Venglai, Chaltlang, Aizawl, Mizoram 796012",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796012",
+    "locality": "Chaltlang",
+    "landmark": "Ramhlun Venglai",
+    "emergencyContact": "084130 28542",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.8",
+      "6+ public reviews",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZa1vRiw2jEBIvmUvVbreSim8w_0uquEWpQUxoyg3RdduiCkesJSGsGiH981Tt_xsLuV939H0fNxQW3CoTOc1iPQsRLsbczydmHEpaBEi5qyd3Phn3mcrMQU6KG1AmTPNMIWCf-5gRzNor=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGZa1vRiw2jEBIvmUvVbreSim8w_0uquEWpQUxoyg3RdduiCkesJSGsGiH981Tt_xsLuV939H0fNxQW3CoTOc1iPQsRLsbczydmHEpaBEi5qyd3Phn3mcrMQU6KG1AmTPNMIWCf-5gRzNor=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipNYtNzkQ5pQn89vwoMYY3z57LIrvWJ3mZk0-OAY=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipP91YBI_mBcLhmoC7WAp1J6ZfGjG9ct0y5TV8v0=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1Qi=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/geougc/AF1QipPrdWfc_yjrgXhYetuUgyISJxOwwROEv4P8qetw=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7444112,
+      "lng": 92.7235642,
+      "label": "LRM Hospital Aizawl in Mizoram",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.8,
+    "reviews": 6,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "mizoram-state-cancer-institute-aizawl",
+    "name": "Mizoram State Cancer Institute",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Aizawl, Mizoram State Cancer Institute offers coordinated hospital care with major focus on Cancer Surgery In Aizawl. Its infrastructure includes Google rating 4.4 and Official website listed, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. The hospital remains relevant for patients comparing emergency access, specialist care, and inpatient support options in Aizawl.",
+    "email": "",
+    "phone": "0389 235 1887",
+    "alternatePhone": "",
+    "website": "https://msci.mizoram.gov.in/",
+    "address": "PQJ2+XF7, Zemabawk, Aizawl, Mizoram 796017",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796017",
+    "locality": "Zemabawk",
+    "landmark": "Aizawl",
+    "emergencyContact": "0389 235 1887",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.4",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHI425bu5EEcBuS8BMSl5YP3j3Do6CJi5u_xotS9CY-pJc-scWJVl4CZv9ALPknrDLI9ubZrm3C3mKdhe84_mU9g9Bvq2eOs2fhw1GhjESeUiO2HKmfjOcY6CiIe7Mkieos6dHyw=w1200-h900-p-k-no",
+    "logo": "https://msci.mizoram.gov.in/uploads/attachments/2023/03/0d991eed48e47688fa6f49d2fcf5ebb0/msci-logo-2.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGHI425bu5EEcBuS8BMSl5YP3j3Do6CJi5u_xotS9CY-pJc-scWJVl4CZv9ALPknrDLI9ubZrm3C3mKdhe84_mU9g9Bvq2eOs2fhw1GhjESeUiO2HKmfjOcY6CiIe7Mkieos6dHyw=w1200-h900-p-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFJzLrrUwpS4IqAb94c2l4G6K33I-8kEUFBgsc9kurNMnWkkO5lYkAOXWnYRWd4ZCmlnU5EJDBmXKb8xFBbLVz8hSyt3HvkEy3pnJajnfKRbphYSs8vNKDhYaZkYj2MkZV2e1I-og=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7324141,
+      "lng": 92.7511813,
+      "label": "Mizoram State Cancer Institute",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.4,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nazareth-hospital-aizawl",
+    "name": "Nazareth Hospital",
+    "type": "Private Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Positioned as a trusted private hospital in Aizawl, Nazareth Hospital delivers integrated care across Oncologist Surgery In Aizawl. Its infrastructure includes Google rating 3.5, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "0389 239 1889",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Bethel Lung, Y - A/05, Chaltlang Venglai, Chaltlang, Aizawl, Mizoram 796012",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796012",
+    "locality": "Chaltlang",
+    "landmark": "Chaltlang Venglai",
+    "emergencyContact": "0389 239 1889",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Oncologist Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.5"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcXcPAyM5KPrGxx7c9XVuk8w9e57qQLSpZC6-aXsgTgRzjde86oTuAoNDxGVrbBDJ6mRZoPv1ugM4GObGNlJPtrtic_3E_uQ6XBedQgEljgvpEtVruGsyHde5g5hhvbSxsI_77=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFcXcPAyM5KPrGxx7c9XVuk8w9e57qQLSpZC6-aXsgTgRzjde86oTuAoNDxGVrbBDJ6mRZoPv1ugM4GObGNlJPtrtic_3E_uQ6XBedQgEljgvpEtVruGsyHde5g5hhvbSxsI_77=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7490147,
+      "lng": 92.7223908,
+      "label": "Nazareth Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "nkpc-kidney-clinic-aizawl",
+    "name": "NKPC Kidney Clinic",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Patients looking for dependable hospital care in Aizawl often choose NKPC Kidney Clinic for its strength in Kidney Transplant Surgery In Aizawl and Kidney Care. With public-facing highlights like Google rating 4.6 and Official website listed, the facility is equipped for advanced treatment and round-the-clock support. From admission to discharge, the care experience is strengthened by Doctor consultations, Inpatient care, Diagnostics, and Patient admissions along with Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "084200 17061",
+    "alternatePhone": "",
+    "website": "https://nkpc.in/",
+    "address": "1212, 2nd St, Purbalok, Santoshpur, Kolkata, West Bengal 700099",
+    "city": "Aizawl",
+    "state": "West Bengal",
+    "pincode": "700099",
+    "locality": "Santoshpur",
+    "landmark": "Purbalok",
+    "emergencyContact": "084200 17061",
+    "emergencyServices": false,
+    "facebook": "https://www.facebook.com/NKPCKidneyClinic/",
+    "twitter": "",
+    "instagram": "https://www.instagram.com/nkpc_kidney_clinic/",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Kidney Transplant Surgery In Aizawl",
+      "Kidney Care"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.6",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no",
+    "logo": "https://nkpc.in/images/nkpc_kidney_clinic_logo22-1.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFCmv94IaoSzM0m0PhygJ7-WaRORhtrpsezJnwKPUx-MvAC5Qy7rnH3ughLrbhQscc4M7KxrRt2E4bnMc35nmNSsakatUx4PdBtQGplQlmUti9_inK38TzfAhC42Tf36OqW0pKHmhqDEvU=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 22.498556,
+      "lng": 88.4002065,
+      "label": "NKPC Kidney Clinic",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "redeem-hospital-aizawl",
+    "name": "Redeem Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Redeem Hospital has built a strong reputation in Aizawl for multidisciplinary treatment pathways covering Hip Replacement Surgery In Aizawl. Its infrastructure includes Google rating 3.6, helping the hospital manage both planned procedures and urgent admissions efficiently. Key service areas include Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, while day-to-day patient convenience is improved through Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087940 80301",
+    "alternatePhone": "",
+    "website": "",
+    "address": "PPFG+PM3, College Veng, Aizawl, Mizoram 796001",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796001",
+    "locality": "College Veng",
+    "landmark": "Aizawl",
+    "emergencyContact": "087940 80301",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Hip Replacement Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 3.6"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFr3YEc9pgr5NgtRh65ZZ7QmQNlLMXYF-_m2_Cc_m2zPg6PXm514EWV2cTtFAblzaxuSkpcCoysJjLvGySgqvAHLKJU-_3iiXlniNK7HB_Nk5qRq3fJy0AIoJdRG6NtwoUbOzIHNA=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFr3YEc9pgr5NgtRh65ZZ7QmQNlLMXYF-_m2_Cc_m2zPg6PXm514EWV2cTtFAblzaxuSkpcCoysJjLvGySgqvAHLKJU-_3iiXlniNK7HB_Nk5qRq3fJy0AIoJdRG6NtwoUbOzIHNA=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7242558,
+      "lng": 92.7266765,
+      "label": "Redeem Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 3.6,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "siloam-eye-center-aizawl",
+    "name": "Siloam eye center",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Among the better-known healthcare destinations in Aizawl, Siloam eye center brings together specialists for Cosmetic Surgery In Aizawl. Operational strengths including Google rating 5.0 make it suitable for emergency, surgical, and inpatient care. Its care model extends beyond treatment through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, supported by Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "",
+    "phone": "087940 06219",
+    "alternatePhone": "",
+    "website": "",
+    "address": "Chanmari, Aizawl, Mizoram 796007",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796007",
+    "locality": "Chanmari",
+    "landmark": "Mizoram 796007",
+    "emergencyContact": "087940 06219",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cosmetic Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7NB7YA9VrbNxOT0vpyOytoHjpVS13bGNCfR93vlSnW-AKk9alg_gSDJJAS18sDubhxDlNoFvQpJ6rWHI4m2n1AjnJvvR30JNPz1wL4FxxCFT8Cqy2rm5N5xeetXs-4P2I6Pk7Ew=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE7NB7YA9VrbNxOT0vpyOytoHjpVS13bGNCfR93vlSnW-AKk9alg_gSDJJAS18sDubhxDlNoFvQpJ6rWHI4m2n1AjnJvvR30JNPz1wL4FxxCFT8Cqy2rm5N5xeetXs-4P2I6Pk7Ew=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7413378,
+      "lng": 92.7167069,
+      "label": "Siloam eye center",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "synod-hospital-durtlang-aizawl",
+    "name": "Synod Hospital Durtlang",
+    "type": "General Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Serving local and outstation patients in Aizawl, Synod Hospital Durtlang offers coordinated hospital care with major focus on Cancer Surgery In Aizawl. The facility stands out for Google rating 4.5 and Official website listed, creating a more dependable setup for critical and scheduled care. Patients also benefit from services such as Doctor consultations, Inpatient care, Diagnostics, and Patient admissions, backed by on-site support features including Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "gracehomedurtlang@gmail.com",
+    "phone": "084159 21575",
+    "alternatePhone": "+91 93660 95152",
+    "website": "http://www.synodhospital.org/",
+    "address": "NH-54, Durtlang Leitan, Aizawl, Mizoram 796015",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796015",
+    "locality": "Durtlang Leitan",
+    "landmark": "Aizawl",
+    "emergencyContact": "+91 93660 95152",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Cancer Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.5",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtLc7PdNTIWc2Mg2E_hiaN2Fhnaf_Tu5B60NAujaoYAbJ8NkhfhQKo8kbvOSbLQWgMlMN_9pi-wx0fF1pBUGq97s8xeviLoaWaTQjdQvkQrZGgflk1MgFdXpun_cN_WiPDK95M=w1200-h900-p-k-no",
+    "logo": "http://www.synodhospital.org/sites/all/themes/durtlang/images-source/synod-hospital-durtlang-mizoram.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGtLc7PdNTIWc2Mg2E_hiaN2Fhnaf_Tu5B60NAujaoYAbJ8NkhfhQKo8kbvOSbLQWgMlMN_9pi-wx0fF1pBUGq97s8xeviLoaWaTQjdQvkQrZGgflk1MgFdXpun_cN_WiPDK95M=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.7722288,
+      "lng": 92.7310205,
+      "label": "Synod Hospital Durtlang",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.5,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "trinity-hospital-aizawl",
+    "name": "Trinity Hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Trinity Hospital has built a strong reputation in Aizawl for multidisciplinary treatment pathways covering Neurosurgeon In Aizawl. Hospital capacity markers such as Google rating 4.2 and Official website listed support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. Patients researching treatment in Aizawl can use this profile to review specialties, infrastructure, and key hospital contact details before planning a visit.",
+    "email": "info@zotres.com",
+    "phone": "094367 43416",
+    "alternatePhone": "+91 96125 68971",
+    "website": "http://trinityhospital.care/",
+    "address": "Silaimual, Melthum Kawn, Aizawl, Mizoram 796005",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796005",
+    "locality": "Melthum Kawn",
+    "landmark": "Aizawl",
+    "emergencyContact": "+91 96125 68971",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Neurosurgeon In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 4.2",
+      "Official website listed"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCxb9MH30Pa8Tcl-BSslUzz84J0dEguT7N6PpFbxQNlJxkqaUtMBU_Oqiz3BVof_FqkQ5JACLDJToFeinoTTeoURogC3BxbDPxXv4tR4dOoC5mc9osrQmrtJ_a-fjrQ93mtyg=w1200-h900-p-k-no",
+    "logo": "http://trinityhospital.care/img/logo.png",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGCxb9MH30Pa8Tcl-BSslUzz84J0dEguT7N6PpFbxQNlJxkqaUtMBU_Oqiz3BVof_FqkQ5JACLDJToFeinoTTeoURogC3BxbDPxXv4tR4dOoC5mc9osrQmrtJ_a-fjrQ93mtyg=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.6804863,
+      "lng": 92.7251475,
+      "label": "Trinity Hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 4.2,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  },
+  {
+    "slug": "zotres-hospital-aizawl",
+    "name": "Zotres hospital",
+    "type": "Hospital",
+    "ownershipType": "Private",
+    "registrationNumber": "Not publicly listed",
+    "registrationAuthority": "Not publicly listed",
+    "registrationYear": "Not publicly listed",
+    "totalBeds": 0,
+    "icuBeds": 0,
+    "totalStaff": 0,
+    "overview": "Zotres hospital is a prominent hospital in Aizawl, known for structured tertiary care across Liver Transplant Surgery In Aizawl. Hospital capacity markers such as Google rating 5.0 support a wider range of complex and routine medical needs. The hospital combines clinical care with patient support through Doctor consultations, Inpatient care, Diagnostics, and Patient admissions and practical amenities like Patient assistance, Pharmacy support, and Visit coordination. It offers a concise public-facing summary for patients exploring hospital services, specialties, and treatment support in Aizawl.",
+    "email": "",
+    "phone": "",
+    "alternatePhone": "",
+    "website": "",
+    "address": "MPJG+63F, Silaimual, Melthum Kawn, Mizoram 796005",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "pincode": "796005",
+    "locality": "Silaimual",
+    "landmark": "Melthum Kawn",
+    "emergencyContact": "",
+    "emergencyServices": false,
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "specialties": [
+      "Liver Transplant Surgery In Aizawl"
+    ],
+    "services": [
+      "Doctor consultations",
+      "Inpatient care",
+      "Diagnostics",
+      "Patient admissions"
+    ],
+    "amenities": [
+      "Patient assistance",
+      "Pharmacy support",
+      "Visit coordination"
+    ],
+    "metrics": [
+      "Google rating 5.0"
+    ],
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFx1tswX3BBGr3h_RuOEU945AUarwR2fUdOkmA8kTDC6WKPsNg2N4Rgq_tvzglHDABGWisk4bd-r4npYeUPXGDr5Dd0CWLG-4Jwus2Dn9g8AuCADEbLvt5wBk2dmhagk1HuJog=w1200-h900-p-k-no",
+    "logo": "",
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFx1tswX3BBGr3h_RuOEU945AUarwR2fUdOkmA8kTDC6WKPsNg2N4Rgq_tvzglHDABGWisk4bd-r4npYeUPXGDr5Dd0CWLG-4Jwus2Dn9g8AuCADEbLvt5wBk2dmhagk1HuJog=w1200-h900-p-k-no"
+    ],
+    "accreditations": [],
+    "awards": [],
+    "establishedYear": "Not publicly listed",
+    "operatingHours": [
+      {
+        "day": "Monday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Tuesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Wednesday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Thursday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Friday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Saturday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      },
+      {
+        "day": "Sunday",
+        "enabled": true,
+        "open24": true,
+        "open": "00:00",
+        "close": "23:59"
+      }
+    ],
+    "map": {
+      "lat": 23.6805535,
+      "lng": 92.725162,
+      "label": "Zotres hospital",
+      "left": 0,
+      "top": 0
+    },
+    "rating": 5.0,
+    "reviews": 0,
+    "distance": "",
+    "hours": "Open 24 hours"
+  }
+]
