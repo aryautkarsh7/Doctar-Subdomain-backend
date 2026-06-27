@@ -87,19 +87,30 @@ async function seed() {
   
   const doctorFiles: { path: string, file: string }[] = [];
   
-  // Scan main downloads folder
-  if (fs.existsSync(downloadsDir)) {
-    fs.readdirSync(downloadsDir)
-      .filter(f => f.endsWith('doctar.json'))
-      .forEach(f => doctorFiles.push({ path: path.join(downloadsDir, f), file: f }));
-  }
-  
-  // Scan doctor-data subfolder
-  if (fs.existsSync(doctorDataDir)) {
-    fs.readdirSync(doctorDataDir)
-      .filter(f => f.endsWith('doctar.json'))
-      .forEach(f => doctorFiles.push({ path: path.join(doctorDataDir, f), file: f }));
-  }
+  const scanDirForDoctors = (dir: string) => {
+    if (!fs.existsSync(dir)) return;
+    fs.readdirSync(dir)
+      .filter(f => f.endsWith('.json'))
+      .forEach(f => {
+        const filePath = path.join(dir, f);
+        try {
+          const fileContent = fs.readFileSync(filePath, 'utf8');
+          const parsed = JSON.parse(fileContent);
+          if (Array.isArray(parsed) && parsed.length > 0) {
+            // Check if it looks like a doctor file (must have specialty or degree in the first item)
+            const first = parsed[0];
+            if (first && (first.specialty !== undefined || first.degree !== undefined)) {
+              doctorFiles.push({ path: filePath, file: f });
+            }
+          }
+        } catch (e) {
+          // ignore parsing errors here, handled during actual seed loop
+        }
+      });
+  };
+
+  scanDirForDoctors(downloadsDir);
+  scanDirForDoctors(doctorDataDir);
   
   console.log(`📂 Found ${doctorFiles.length} doctor JSON files. Parsing locally...`);
   
@@ -107,14 +118,26 @@ async function seed() {
   const docRecords: any[] = [];
   
   for (const { path: filePath, file } of doctorFiles) {
-    // Derive city name from filename
-    const rawCityName = file.replace('doctar.json', '').replace(/_/g, ' ');
-    const cityName = normalizeCity(rawCityName);
-    
     try {
       const fileContent = fs.readFileSync(filePath, 'utf8');
       const doctors = JSON.parse(fileContent);
-      if (Array.isArray(doctors)) {
+      if (Array.isArray(doctors) && doctors.length > 0) {
+        // Derive city name from the first doctor's city property, location, or filename
+        const firstDoc = doctors[0];
+        let rawCityName = '';
+        if (firstDoc.city && typeof firstDoc.city === 'string' && firstDoc.city.trim().length > 0) {
+          rawCityName = firstDoc.city;
+        } else if (firstDoc.location && typeof firstDoc.location === 'string') {
+          rawCityName = firstDoc.location.split(',').pop() || '';
+        }
+        
+        if (!rawCityName.trim()) {
+          rawCityName = file.replace('doctar.json', '').replace('.json', '').replace(/\s*\(\d+\)\s*/g, '').replace(/_/g, ' ');
+        }
+        
+        const cityName = normalizeCity(rawCityName);
+        console.log(`📄 Parsing doctor file ${file} → City: ${cityName} (${doctors.length} doctors)`);
+        
         for (const doc of doctors) {
           if (doc.slug && doc.name && !seenDocs.has(doc.slug)) {
             seenDocs.add(doc.slug);
