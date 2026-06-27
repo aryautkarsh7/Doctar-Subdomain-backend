@@ -13,6 +13,12 @@ export interface IDoctor extends Document {
   image?: string;
   iconImage?: string;
   hospital?: string;
+  hospitals?: {
+    name: string;
+    slug: string;
+    address: string;
+    timing: string;
+  }[];
   location?: string;
   slots?: string[];
   nextSlot?: string;
@@ -37,6 +43,12 @@ const doctorSchema = new Schema({
   image: String,
   iconImage: { type: String, default: '' },
   hospital: String,
+  hospitals: [{
+    name: String,
+    slug: String,
+    address: String,
+    timing: String
+  }],
   location: String,
   slots: [String],
   nextSlot: String,
