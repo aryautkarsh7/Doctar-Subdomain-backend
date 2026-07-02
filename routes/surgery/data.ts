@@ -118,17 +118,33 @@ router.get('/critical', async (req: Request, res: Response) => {
  */
 router.get('/city', async (req: Request, res: Response) => {
   try {
-    const city = (req.query.city as string || 'Kolkata').trim();
+    const queryCity = (req.query.city as string || 'Kolkata').trim();
+    
+    // Normalize aliases so both doctors and hospitals match for synonyms
+    let cities = [queryCity];
+    const lower = queryCity.toLowerCase();
+    if (lower === 'bangalore' || lower === 'bengaluru') {
+      cities = ['Bangalore', 'Bengaluru'];
+    } else if (lower === 'allahabad' || lower === 'prayagraj') {
+      cities = ['Allahabad', 'Prayagraj'];
+    } else if (lower === 'bijapur' || lower === 'vijayapura') {
+      cities = ['Bijapur', 'Vijayapura'];
+    } else if (lower === 'ahmednagar' || lower === 'ahilyanagar' || lower === 'ahmed nagar') {
+      cities = ['Ahmednagar', 'Ahilyanagar', 'Ahmed Nagar'];
+    } else if (lower === 'delhi ncr' || lower === 'delhi' || lower === 'new delhi') {
+      cities = ['Delhi NCR', 'Delhi', 'New Delhi'];
+    }
+
     const collation = { locale: 'en', strength: 2 }; // strength:2 = case-insensitive
 
     const [doctorDocs, hospitals, pethospitals] = await Promise.all([
-      Doctor.find({ city }).collation(collation).lean(),
-      Hospital.find({ city })
+      Doctor.find({ city: { $in: cities } }).collation(collation).lean(),
+      Hospital.find({ city: { $in: cities } })
         .collation(collation)
         .select('name slug city image logo rating phone type specialties map address locality services metrics')
         .limit(40)
         .lean(),
-      PetHospital.find({ city }).collation(collation).lean(),
+      PetHospital.find({ city: { $in: cities } }).collation(collation).lean(),
     ]);
 
     const doctors = doctorDocs.map((doc: any) => ({ ...doc, iconImage: doc.iconImage || '' }));
